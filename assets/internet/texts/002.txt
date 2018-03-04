@@ -1,0 +1,24 @@
+A computer intruder has written a program that has entered dozens of computers in a nationwide network in recent weeks, automatically stealing electronic documents containing users' passwords and erasing files to help conceal itself.
+A computer intruder has written a program that has entered dozens of computers in a nationwide network in recent weeks, automatically stealing electronic documents containing users' passwords and erasing files to help conceal itself.
+The intruder has eluded Government computer security teams that are trying to track the program back to its source.
+The computer network, Internet, is a worldwide collection of systems linking corporations, unversities, non-classified military installations and Government laboratories.
+The Internet was the target of a rogue program written by Robert Tappan Morris, a graduate student at cornell University, that jammed computers nationwide in November 1988.
+Military Secrets Unaffected
+Last night, investigators said the latest intruder had entered dozens of systems, including those of Los Alamos National Laboratory and Digital Equipment Corporation, as well as Harvard University, Boston University and the University of Texas.
+Governmetn officials said that no classified military computers have been affected and that damage done by the intruder has been minimal. Investigators said they were uncertain of motives for stealing the passwords.
+The new break-ins have been accomplished by a program that is systematically trying to enter computers attached to the network by abusing well-known security flaws.
+The program is not similar to the one written by Mr. Morris, according to a computer security specialist who is familiar with the new attack. The more recent program does not copy itself from computer to computer, but instead is running at a single hidden location.
+Once it gains access to a computer, it tries to steal a specially coded file containing passwords and copy that file to another computer, where it can decode the passwords. Where Does Trail Start? The new program erases files that would help security investigators track the location of its author, the security specialist said.
+The intruder is connecting to the network through a series of computers to make tracing him more difficult. Federal investigators have not disclosed all the sites where security has been breached, but it is known that they have traced some of the break-ins as far as Texas and New Mexico before losing the trail. And they do not yet know where the trail starts.
+Stolen password files have been copies to a computer at Los Alamos National Laboratories in Los Alamos, N.M., where the intruder - his location unknown - has used a special program to decode the passwords, according to a computer programmer familiar with break-ins.
+Such password decoding, or ''cracking,'' works by comparing a list of passwords to a special dictionary. ONce the passwords are decoded, they can be used to illegally enter a computer on the network and gain access to a user's files.
+Theories on Method
+Officials at the laboratory last night confirmed they were aware of the intrusion and said they were cooperating.
+One investigator speculated that the intruder learned of the system's vulnerability by obtaining a copy of a special program originally distributed to computer securitya managers by a United States military laboratory. That program was designed to permit computer managers to test their systems' security.
+A spokesman for the Computer Emergency Response Team, a federally funded organization at Carnegie-Mellon University's Software Engineering Institute in Pittsburgh, said the damage donw by the program was minimal.
+''We confirmed that several dozen sites have been broken into, and the intruder is trying to get in to other sites,'' said Terry McGillen, a spokesman for the organization. He said that the organization has a policy of not identifying computer sites that are broken into.
+There is no accurate census of the number of computers connected to the Internet, but authoritative estimates run into the hundreds of thousands.
+A Threat Unabated
+A computer scientist said the attacks are new evidence that the security threats to the nation's computers have not diminished despite Congressonal concern.
+''The computer virus frenzy is not the real problem,'' said Peter Neumann, a computer security expert at SRI International, a research center in Menlo Park, Calif. ''The real problem is the fact that the computers are so vulnerable, ad whether the attack is by one person at a computer or a program like a worm or virus, they're all exploiting the same problem - the vulnerability of our computer systems.''
+
