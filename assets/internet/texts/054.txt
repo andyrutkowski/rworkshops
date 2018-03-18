@@ -1,0 +1,83 @@
+____________________________________________________________
+
+Internet phone use growing in popularity
+
+Author: Makris, Steve
+
+Publication info: Expositor ; Brantford, Ont. [Brantford, Ont]31 Aug 2002: D10.
+
+http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/345937619?accountid=14749
+
+Abstract: Internet phones, also known as voice over Internet, (formally called VoIP or voice over Internet protocol) take the traditional analog voice signals used in regular phones and convert them into digital data packets for transmission over the Internet. More than one-third of large Canadian enterprises recently surveyed said they plan to invest in Internet-based communications systems over the next year, says computer industry monitor IDC Canada. "Those results legitimize the perception that Internet- based telephony is a viable business communications solution," said Lawrence Surtees, IDC's director of telecom research. IDC also projects that Internet-based business telephony traffic will eclipse residential Internet telephony use by 2004. NAIT is among 20 educational institutions converting to VoIP starting with 300 Cisco Internet phones in its new HP Centre for Information and Communications Technology with plans to convert the entire campus.
+
+Links: https://usc-primo.hosted.exlibrisgroup.com/openurl/01USC/01USC_SP??url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;genre=unknown&amp;sid=ProQ:ProQ%3Aglobalnews&amp;atitle=Internet+phone+use+growing+in+popularity%3A+%5BFinal+Edition%5D&amp;title=Expositor&amp;issn=08373744&amp;date=2002-08-31&amp;volume=&amp;issue=&amp;spage=D.10&amp;au=Makris%2C+Steve&amp;isbn=&amp;jtitle=Expositor&amp;btitle=&amp;rft_id=info:eric/&amp;rft_id=info:doi/
+
+http://libproxy.usc.edu/login?url=https://usc.illiad.oclc.org/illiad/illiad.dll/OpenURL??ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Aglobalnews&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=Expositor&amp;rft.atitle=Internet+phone+use+growing+in+popularity%3A+%5BFinal+Edition%5D&amp;rft.au=Makris%2C+Steve&amp;rft.aulast=Makris&amp;rft.aufirst=Steve&amp;rft.date=2002-08-31&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=D.10&amp;rft.title=Expositor&amp;rft.issn=08373744
+
+http://libproxy.usc.edu/login?url=https://usc.illiad.oclc.org/illiad/illiad.dll/OpenURL??ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Aglobalnews&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=Expositor&amp;rft.atitle=Internet+phone+use+growing+in+popularity%3A+%5BFinal+Edition%5D&amp;rft.au=Makris%2C+Steve&amp;rft.aulast=Makris&amp;rft.aufirst=Steve&amp;rft.date=2002-08-31&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=D.10&amp;rft.title=Expositor&amp;rft.issn=08373744
+
+Full text: EDMONTON - Telephone and Internet technology is merging in a way that is changing how consumers and businesses communicate.
+Internet phones, also known as voice over Internet, (formally called VoIP or voice over Internet protocol) take the traditional analog voice signals used in regular phones and convert them into digital data packets for transmission over the Internet.
+VoIP has been popular on personal computers for the past several years, allowing users to make cheap, long-distance phone calls through their PCs with a common microphone head set and fee-based services substantially cheaper than traditional phone companies.
+Although deregulation in Canada has made telephony competitive, it is the digital side of phones that can make owning one or thousands of phones cheaper than before.
+"Up to now, companies ran two separate networks, for computer data and for telephones," said Cisco Systems Canada's chief marketing officer Andrew Sage. "Now phone information and other computer data share one network, making it cheaper to maintain, and capable of doing much more than before."
+For example, when away from the office, with a laptop and a headset you could access your e-mail at work and review voice and text messages in the same inbox. "Your cellphone would also be able to access your text messages and have them read back by using speech to text technology," said Sage.
+"Imagine using call display during a phone conversation to instantly look up the caller's relevant information in the company database."
+Cisco has already passed the one-millionth Internet phone installation worldwide, more than 60,000 of them in Canada, says Sage.
+Telephone service providers like Telus will eventually collapse their data and voice service to one, over the Internet, says Jeff Zabudsky, dean of curriculum and technology innovation at the Northern Alberta Institute of Technology (NAIT). "Telcos will continue to provide the phone infrastructure with guaranteed speed performance, something VoIP over the public Internet does not always have."
+With a typical return on investment of 18 months, companies can make a good case for switching to Internet telephony, says Sage. A host of computer-based services await VoIP customers, he says.
+More than one-third of large Canadian enterprises recently surveyed said they plan to invest in Internet-based communications systems over the next year, says computer industry monitor IDC Canada. "Those results legitimize the perception that Internet- based telephony is a viable business communications solution," said Lawrence Surtees, IDC's director of telecom research. IDC also projects that Internet-based business telephony traffic will eclipse residential Internet telephony use by 2004.
+"Companies are early adapters, but it is developing technology like video over phone that will make Internet telephony more popular with the consumer," said Sage.
+NAIT is among 20 educational institutions converting to VoIP starting with 300 Cisco Internet phones in its new HP Centre for Information and Communications Technology with plans to convert the entire campus.
+Some users will use Cisco Internet phones while others will use "soft phones" that run off their computer using a microphone headset.
+The initial cost of implementing VoIP is higher than traditional phones, he says, but the efficiency of running only one network to handle all the school's data will more than pay off the initial investment.
+
+Company / organization: Name: Cisco Systems Canada Ltd; NAICS: 334220, 334290
+
+Title: Internet phone use growing in popularity:   [Final Edition]
+
+Publication title: Expositor; Brantford, Ont.
+
+Pages: D10
+
+Number of pages: 0
+
+Publication year: 2002
+
+Publication date: Aug 31, 2002
+
+Dateline: EDMONTON
+
+Section: Online
+
+Publisher: Infomart, a division of Postmedia Network Inc.
+
+Place of publication: Brantford, Ont.
+
+Country of publication: Canada, Brantford, Ont.
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 08373744
+
+Source type: Newspapers
+
+Language of publication: English
+
+Document type: News
+
+ProQuest document ID: 345937619
+
+Document URL: http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/345937619?accountid=14749
+
+Copyright: (Copyright The Expositor (Brantford) 2002)
+
+Last updated: 2012-02-09
+
+Database: Global Newsstream,ProQuest Central
+
+____________________________________________________________
+
+Contact us at: http://www.proquest.com/go/pqissupportcontact
+Database copyright © 2018 ProQuest LLC. All rights reserved.
+Terms and Conditions: https://search.proquest.com/info/termsAndConditions

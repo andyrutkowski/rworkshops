@@ -1,0 +1,72 @@
+CELLULAR FIRMS ARE UPGRADING FOR THE NEXT GENERATION OF WIRELESS TECHNOLOGY.
+Author: Kaplan, Karen
+Publication info: Orlando Sentinel ; Orlando, Fla. [Orlando, Fla]21 Apr 2002: H1.
+http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/279770973?accountid=14749
+Abstract: CHART: MOBILE TECHNOLOGY MOBILE INTERNET USE IS GROWING... Cell phones and hand-held computers are becoming key devices to access the internet. INTERNET USERS IN THE U.S. In millions 2000 = 4.0 Mobile Internet users 95.4 = Total internet users 2001 = 8.9 Mobile Internet users 119.0 = Total internet users 2002 = 22.5 Mobile Internet users 136.0 = Total internet users 2003 = 43.0 Mobile Internet users 151.8 = Total internet users 2004 = 63.5 Mobile Internet users 165.5 = Total internet users *Projected CHART: AND WORLDWIDE MOBILE COMMERCE IS BOOMING... Europe and Asia have been leading the way in selling products through mobile devices. WORLDWIDE MOBILE COMMERCE In billions $28 billion (Projected to be in 2006) CHART: ...BUT U.S. SALES ARE EXPECTED TO LAG FAR BEHIND. A slow start in the United States will mean small mobile commerce sales in the near future. U.S. SHARE OF WORLDWIDE MOBILE COMMERCE IN 2006 U.S. mobile commerce: 2.2% Worldwide mobile commerce: 97.8% SOURCES: EMarketer, Cahners In-Stat/MDR LOS ANGELES TIMES
+Links: https://usc-primo.hosted.exlibrisgroup.com/openurl/01USC/01USC_SP??url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;genre=unknown&amp;sid=ProQ:ProQ%3Aglobalnews&amp;atitle=CELLULAR+FIRMS+ARE+UPGRADING+FOR+THE+NEXT+GENERATION+OF+WIRELESS+TECHNOLOGY.%3A+%5BFINAL+EDITION%5D&amp;title=Orlando+Sentinel&amp;issn=&amp;date=2002-04-21&amp;volume=&amp;issue=&amp;spage=H.1&amp;au=Kaplan%2C+Karen&amp;isbn=&amp;jtitle=Orlando+Sentinel&amp;btitle=&amp;rft_id=info:eric/&amp;rft_id=info:doi/
+http://libproxy.usc.edu/login?url=https://usc.illiad.oclc.org/illiad/illiad.dll/OpenURL??ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Aglobalnews&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=Orlando+Sentinel&amp;rft.atitle=CELLULAR+FIRMS+ARE+UPGRADING+FOR+THE+NEXT+GENERATION+OF+WIRELESS+TECHNOLOGY.%3A+%5BFINAL+EDITION%5D&amp;rft.au=Kaplan%2C+Karen&amp;rft.aulast=Kaplan&amp;rft.aufirst=Karen&amp;rft.date=2002-04-21&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=H.1&amp;rft.title=Orlando+Sentinel&amp;rft.issn=
+http://libproxy.usc.edu/login?url=https://usc.illiad.oclc.org/illiad/illiad.dll/OpenURL??ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Aglobalnews&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=Orlando+Sentinel&amp;rft.atitle=CELLULAR+FIRMS+ARE+UPGRADING+FOR+THE+NEXT+GENERATION+OF+WIRELESS+TECHNOLOGY.%3A+%5BFINAL+EDITION%5D&amp;rft.au=Kaplan%2C+Karen&amp;rft.aulast=Kaplan&amp;rft.aufirst=Karen&amp;rft.date=2002-04-21&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=H.1&amp;rft.title=Orlando+Sentinel&amp;rft.issn=
+Full text:   Karen Kaplan is a business reporter for the Los Angeles Times, a Tribune Publishing newspaper. See related story on H1.
+LAGUNA HILLS, Calif.
+After several years of false starts, the grand hopes for mobile commerce in 2002 rest in no small part on the slender shoulders of Adirem Quintel.
+The 25-year-old field technician for Nortel Networks Corp. is part of an army of thousands of workers who are quietly yet methodically visiting cellular towers across the nation and upgrading them for a new generation of faster wireless networks.
+Quintel typically visits two or three of them a night, each time installing a sophisticated piece of digital switching equipment for Verizon Wireless Inc. that allows cell phones, two-way pagers and hand-held computers to transmit data as fast as desktop PCs with dial-up connections to the Internet.
+Wireless carriers expect to have their new networks -- generally called "3G" because they represent the third generation of wireless technology -- turned on in the country's major metropolitan areas by year-end.
+Verizon has launched its Express Network in Salt Lake City, the San Francisco Bay Area and the Northeast corridor connecting Boston, New York and Washington. Sprint PCS Group Inc. plans to switch on its entire nationwide high-speed network -- including Orlando -- this summer. Cingular Wireless, AT&T Wireless Services Inc. and others are going forward with new networks as well.
+In Central Florida, most of the major wireless carriers already offer a diminutive version of 3G. The service, which typically offers always-on Internet connections at transfer speeds of 30 kilobits to 60 kilobits per second, is considerably slower than broadband, but allows the wireless companies to begin introducing the services that will become available in the next year or so when full-strength, 3G networks go live.
+Nextel, AT&T, Cingular and Voicestream all offer the service, called 2.5G, in Central Florida. Verizon is planning on rolling out a 2.5G service here this spring.
+All of them are betting that the new technology finally will entice Americans to use their cell phones, hand-held computers and other mobile devices to shop and conduct business -- a trend that is supplanting the letter "e" in the technology vernacular with the letter "m."
+"The potential for m-commerce is directly related to the roll- out of these networks," said Ben Macklin, a senior analyst at EMarketer Inc., a market research firm based in New York. "It provides consumers with a much more compelling type of offering."
+Already a hit in parts of Asia and Europe, mobile computing has long been anticipated as the next big thing for the Internet.
+For corporate America, so-called m-business promises to help companies streamline their operations and increase efficiency by allowing workers to conduct business without being tethered to the office.
+It will allow real estate agents to access listings from the road and enable insurance adjusters to process claims without returning to the office.
+For consumers, m-commerce offers the tantalizing prospect of shopping for books, baseball tickets or other items on portable gadgets while commuting on the subway or standing in line at the post office.
+They will be able to exchange electronic greeting cards on their cell phones, place bets on racehorses using two-way pagers and download video games to their personal digital assistants.
+Forecasters at New York market research firm Jupiter Media Metrix predict that by 2005, $22.2 billion worth of goods and services will be purchased on mobile devices worldwide. Businesses and consumers in Asia are on track to spend $2.6 billion on m-commerce this year, and their counterparts in Europe are expected to ring up $500 million in sales by Dec. 31.
+In contrast, otherwise indulgent North Americans are projected to spend a paltry $100 million using their mobile devices in 2002. But analysts expect those spending habits to change once the faster wireless networks come online.
+The new networks will enable new forms of m-services, m- entertainment and, of course, m-advertising that are far more appealing than the offerings available in the United States today.
+Stock trades from wireless PDAs are slow, and Web sites redesigned for tiny cell phone screens are cumbersome to navigate with only about a dozen keys on the number pad. As a result, less than 2 percent of Americans whose phones are equipped with Web browsers use them for mobile commerce, said Dylan Brooks, Jupiter's senior wireless analyst.
+"That points to the lack of a compelling experience," he said. "A fairly large number of people have used their phones to do something, but the actual user experience isn't such that it really ropes people in."
+Whether that will change depends on a variety of factors, including the development of new-fangled devices with bigger screens, improvements in voice recognition technology that will eliminate the need to type on miniature keypads, and the emergence of new applications that will entice users to open their wallets.
+But after several false starts, analysts now think the most critical factor for the United States is the roll-out of 3G networks.
+"I liken it to the automobile: You had to have roads before you could have a car," said Ken Hyers, senior analyst in the mobile carrier services group at Cahners In-Stat/MDR, a Newton, Mass., consulting firm.
+And that's where Quintel comes in. For the past three months, she has been spending her nights cruising around Southern California in her black sport-utility vehicle visiting Verizon cell sites.
+The essential piece of equipment that brings them onto the company's 3G network is a channel element module, a metal box about the size of a coffee table book that converts calls from the digital wireless network into signals that can be carried on the traditional phone network and vice versa.
+Each box can handle at least twice as many voice calls as the one it replaces, or it can boost voice capacity while ferrying data at speeds of 40 to 60 kilobits per second, about three to four times as fast as current wireless technology allows.
+Quintel can swap the equipment in less than 20 minutes and can usually do two or three upgrades a night. And Verizon has more than 1,000 sites to upgrade just in Southern California before it can turn on its network next month.
+All the major wireless carriers are upgrading their networks to accommodate high-speed data transmissions. Though they employ different technologies, the networks all handle more calls by taking advantage of faster processors inside phones and cell sites. They also use compression technology and more efficient coding algorithms to squeeze more calls onto their networks at once.
+As the networks come on line, analysts say business users will be the first to benefit from the increased speed. The flood of data will be most useful for people using wireless networking cards to connect to corporate networks and the Internet on their laptops and PDAs.
+Businesses also are more willing to pay the higher prices that carriers will charge for 3G services, Cahners analyst Hyers said.
+Consumers will follow in the next 12 to 18 months, although they may never embrace m-commerce as enthusiastically as their counterparts in Asia and Europe, analysts said. People there spend more time commuting on trains, where their hands are free to play with wireless gadgets, but Americans pass their commutes behind the wheel.
+Americans also are spoiled by the fast Internet connections they can get with desktop PCs, which display the Web on large, full- color screens.
+"The ease of doing things online with a PC and the richer experience there are baked into the psyche of a lot of online consumers," said Jupiter's Brooks. "The idea that they'll replace that activity with wireless is probably a nonstarter."
+Although mobile computing may never supplant desktop computing, analysts still think that m-commerce and m-business activities eventually will become an important part of the technology spectrum. The first big step is 3G.
+"Before, you saw a gazillion people try to develop applications and the network wasn't really there to support them," Hyers said. "With the new networks coming out, we will see a lot of people trying to do it again. That's what's going to make the difference."
+Illustration CHART: MOBILE TECHNOLOGY MOBILE INTERNET USE IS GROWING... Cell phones and hand-held computers are becoming key devices to access the internet. INTERNET USERS IN THE U.S. In millions 2000 = 4.0 Mobile Internet users 95.4 = Total internet users 2001 = 8.9 Mobile Internet users 119.0 = Total internet users 2002 = 22.5 Mobile Internet users 136.0 = Total internet users 2003 = 43.0 Mobile Internet users 151.8 = Total internet users 2004 = 63.5 Mobile Internet users 165.5 = Total internet users *Projected CHART: AND WORLDWIDE MOBILE COMMERCE IS BOOMING... Europe and Asia have been leading the way in selling products through mobile devices. WORLDWIDE MOBILE COMMERCE In billions $28 billion (Projected to be in 2006) CHART: ...BUT U.S. SALES ARE EXPECTED TO LAG FAR BEHIND. A slow start in the United States will mean small mobile commerce sales in the near future. U.S. SHARE OF WORLDWIDE MOBILE COMMERCE IN 2006 U.S. mobile commerce: 2.2% Worldwide mobile commerce: 97.8% SOURCES: EMarketer, Cahners In-Stat/MDR LOS ANGELES TIMES
+People: Hyers, Ken
+Company: Verizon Wireless Inc Jupiter Media Metrix
+Title: CELLULAR FIRMS ARE UPGRADING FOR THE NEXT GENERATION OF WIRELESS TECHNOLOGY.:   [FINAL Edition]
+Publication title: Orlando Sentinel; Orlando, Fla.
+Pages: H1
+Number of pages: 0
+Publication year: 2002
+Publication date: Apr 21, 2002
+column: SPECIAL REPORT: MOBILE TECHNOLOGY
+Section: MONEY
+Publisher: Tribune Interactive, LLC
+Place of publication: Orlando, Fla.
+Country of publication: United States, Orlando, Fla.
+Publication subject: General Interest Periodicals--United States
+Source type: Newspapers
+Language of publication: English
+Document type: NEWSPAPER
+ProQuest document ID: 279770973
+Document URL: http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/279770973?accountid=14749
+Copyright: (Copyright 2002 by The Orlando Sentinel)
+Last updated: 2017-11-05
+Database: Global Newsstream,ProQuest Central
+____________________________________________________________
+Contact us at: http://www.proquest.com/go/pqissupportcontact
+Database copyright © 2018 ProQuest LLC. All rights reserved.
+Terms and Conditions: https://search.proquest.com/info/termsAndConditions
+

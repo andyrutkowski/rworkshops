@@ -1,0 +1,18 @@
+FBI Warns Internet Online Attacks on Private Industry Will Continue; Bulletin comes after hackers attacked service provider Dynamic Network Services Inc.
+
+Computer-security blogger Brian Krebs and French web hosting provider OVH, and there is now speculation that it could be used to launch attacks on Tuesday, disrupting the U.S. election.
+U.S. authorities have linked Russia to a continuing campaign to disrupt Tuesday's election , but Russia hasn't been linked to the Mirai botnet. Director of National Intelligence James Clapper said Oct. 25 it didn't appear foreign governments were behind the Mirai attack.
+The "FBI does not have any confirmation of a group or individuals responsible for the [Dyn] DDoS," the FBI's bulletin states. It doesn't mention the upcoming election.
+One researcher, who has been following the development of the Mirai botnet, downplayed the possibility of an Election Day attack, noting U.S. elections are administered by thousands of state and local agencies, making them a tough target.
+"There's no central infrastructure associated with the elections," said Allison Nixon, a researcher with internet-security firm Flashpoint. "So there are a lot of unknowns. I don't think people should get too excited about the DDoS aspect of this."
+Write to Robert McMillan at Robert.Mcmillan@wsj.com
+Related Coverage
+* Cyberattack Knocks Out Access to Websites (Oct. 24)
+* How 'Denial-of-Service' Attacks Wreak Havoc on Websites (Oct. 21)
+* Hackers Release Botnet Code, Raising Specter of More Attacks (Oct. 5)
+* Hackers Infect Army of Cameras, DVRs for Massive Internet Attacks (Sept. 30)
+Credit: By Robert McMillan
+Word count: 524
+(c) 2016 Dow Jones & Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.
+
+

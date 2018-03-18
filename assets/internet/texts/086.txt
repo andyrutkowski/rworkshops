@@ -1,0 +1,32 @@
+Net Neutrality: Spur to Entrepreneurship...
+Baker, Mitchell; Lilly, John. Wall Street Journal, Eastern edition; New York, N.Y. [New York, N.Y]30 Oct 2009: A.23.
+
+	•	Full text
+	•	Abstract/Details
+Hide highlighting
+Abstract
+TranslateAbstract
+The principle that any "bit" of information is treated the same as any other bit is a defining characteristic of the Internet; it is a central aspect of the design that has lead to the unprecedented impact of the Internet on our lives. Since 1995, the Web has spawned an exciting generation of entrepreneurs who have created businesses and jobs that exist solely as the result of the Internet.
+Full Text
+	•	TranslateFull text
+	•	Turn on search term navigation
+Last Thursday, the Federal Communications Commission (FCC) proposed a rule intended to preserve the ability of individuals to access all lawful content or software without interference by their Internet service provider (ISP). This principle often goes by the name "net neutrality," reflecting the idea that the ISP should be neutral as to the content people choose to access over their Internet connection.
+As heads of an Internet company competing in today's marketplace, we fully support the FCC's proposal.
+Historically, Internet access has been through wired Internet connections, such as DSL and cable, yet increasingly innovation is taking place in the wireless Internet arena. FCC Chairman Julius Genachowski has wisely proposed clarifying existing policy that wireless Internet access is subject to the same open Internetexpectation.
+An open wireless network, built on the same principles as the extremely successful wired network, will unleash investment, innovation and job growth that could be a major driver in our economic recovery.
+Those who oppose neutrality claim that government involvement -- even to ensure an open and competitive market -- is somehow bad for business. This claim is wrong and cannot be left unchallenged. It contradicts the history of the Internet, and threatens its foundations.
+The fundamental technologies of the Internet have always been open; the FCC's proposed rules would merely preserve that openness. The principle that any "bit" of information is treated the same as any other bit is a defining characteristic of the Internet; it is a central aspect of the design that has lead to the unprecedented impact of the Internet on our lives.
+Since 1995, the Web has spawned an exciting generation of entrepreneurs who have created businesses and jobs that exist solely as the result of the Internet. A recent study by the Interactive Advertising Bureau estimates the Internet sector sustains three million jobs, supports 20,000 Internet-related small businesses, and accounts for about 2% of our gross domestic product. Companies like Yahoo!, Google, Amazon, eBay, Facebook, Salesforce.com, Expedia, Monster, and NetFlix, alone represent nearly $300 billion of market capitalization. Similarly, thousands of other firms, including Apple, Disney and Wal-Mart to name only a few, complement their businesses through the distribution and audience aggregation power of the Internet.
+Today, these companies and many others are working to create the "next new thing" that will drive job growth and innovation. Research from the Kauffman Foundation shows that from 1980--2005 entrepreneurial firms younger than five years old accounted for 100% of net job growth in the United States. The openness of the Internet accelerates this trend by treating new entrants on an equal basis.
+Our company, Mozilla, which produces the Firefox Web browser, is but one example of the innovation and participation made possible by an open Internet. As a small, unknown start-up we were able to coordinate the actions of people worldwide to build Firefox with access to Internet facilities on the same terms as well-funded entities.
+At that time, there was no widespread mechanism or business practice by which competitors could use cash or close ties to broadband providers to block or impede downloads of the Firefox browser. Since then, mechanisms for differential treatment of traffic by content have been developed and put to use.
+Within one year of our launch, we had 100 million downloads. In the past five years, Firefox has been downloaded 1.1 billion times and has more than 300 million users world-wide. Users have also downloaded more than 1.6 billion small applications known as "add-ons" that work with Firefox. These add-ons are made by a vibrant ecosystem of developers, from hobbyists to Fortune 100 companies. We've been able to compete on our own merits with the dominant browser, Internet Explorer. Without an open Internet, this would not have been possible.
+Now those same guarantees of openness must be extended to wireless technology. Mr. Genachowski proposed this net neutrality rule with one stated goal -- to ensure "that the Internet remain an engine for innovation, entrepreneurship, and broad investment." Nondiscriminatory access to content is what created the miracle of the Internet. It must be preserved.
+---
+Ms. Baker is the chair and Mr. Lilly the CEO of Mozilla.
+(See related editorial: "...Or Barrier to Broadband Investment?" -- WSJ October 30, 2009)
+(See related letters: "Letters to the Editor: Internet World Is Hardly Neutral on Net Neutrality" -- WSJ November 6, 2009)
+Credit: By Mitchell Baker and John Lilly
+Word count: 740
+(c) 2009 Dow Jones & Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.
+

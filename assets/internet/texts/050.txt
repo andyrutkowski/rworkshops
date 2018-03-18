@@ -1,0 +1,14 @@
+CONNECTIVITY TO THE NEXT GENERATION INTERNET NETWORK (INTERNET 2)
+
+Synopsis# 0109100020
+NOTICE TYPE: Solicitation
+NOTICE DATED: 090601
+ZIP CODE: 20894
+OFFICE ADDRESS: National Library of Medicine, Office of Acquisitions Management, Building 38A, Room B1N17, 8600 Rockville Pike, Bethesda, Maryland 20894
+SOLICITATION NUMBER: SOL N/A
+CONTACT: POC Susan A. Nsangou, Contract Specialist (301) 496- 6546; Karen Riggs, Contracting Officer (301) 496-6127
+NOTICE TEXT: It is the intent of the National Library of Medicine to procure the Abilene Services yearly membership for NLM's independent access to the Internet2 on a sole source basis with UCAID, 3025 Boardwalk, Suite 100, Ann Arbor, Michigan, under authority of FAR 6.302. This service will to provide connectivity to the Next Generation Internet Network (Internet2). The Internet2 connects hundreds of national and international institutions doing advanced research and development. The NLM through the Internet2 intends to foster development of advanced biomedical applications. The Internet2 members interconnect via the high-performance Abilene project network backbone at speeds up to OC48. The end users connect through their own institution's networks which in turn connect either singly or jointly via local and/or regional aggregation point's high performance connections to the Abilene backbone at speeds of not less than 155 Mbps. The Abilene project is a nationwide high performance network capable of giving the NLM this connectivity. Abilene peers via 40 connections with 26 networks and offers extensive national (52 connectors and 3 NGIXs) and international (STARTAP) connectivity. UCAID is the sole provider of connectivity to the Internet2. Responses are required within fifteen (15) calendar days from the publication date of this notice to The National Library of Medicine, Office of Acquisitions Management, 8600 Rockville Pike, Bldg. 38A, Room B1N17, Bethesda, MD 20894, Attention: Susan A. Nsangou 01-225.
+RECEIVED: (W-249 SN50W9F5)
+字数: 281
+Copyright U.S. Dept. of Commerce, Office of Field Services Sep 10, 2001
+

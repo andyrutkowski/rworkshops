@@ -1,0 +1,24 @@
+Wireless Internet a pipe dream: Two experts doubt demand strong for wireless Internet: [National Edition 1]
+Baum, Richard. National Post; Don Mills, Ont. [Don Mills, Ont]30 Nov 2000: C20.
+
+Abstract
+LONDON - Two senior telecommunications executives expressed serious doubts yesterday about prospects for third-generation (3G) mobile operators, questioning demand for wireless Internet services.
+Mr. [Henri Piganeau], also chief executive of Xferac, a Vivendi-backed company that won a 3G licence in Spain, said he expects revenue per customer will stay flat, not rise as most operators predict.
+Bruce Akhurst, head of strategy at One 2 One, Deutsche Telekom AG's UK mobile operator, said the unexpected success of text messaging indicated 3G would yield profits.
+Full Text
+	•	
+LONDON - Two senior telecommunications executives expressed serious doubts yesterday about prospects for third-generation (3G) mobile operators, questioning demand for wireless Internet services.
+Forecasts the new technology would encourage customers to spend more were "wishful thinking," said Henri Piganeau, executive vice- president of French operator Vivendi Telecom International.
+Mr. Piganeau, also chief executive of Xferac, a Vivendi-backed company that won a 3G licence in Spain, said he expects revenue per customer will stay flat, not rise as most operators predict.
+"UMTS [Universal Mobile Telecommunications System] is putting large capacity on the market and we know from experience when there's an increase in capacity, prices drop," he told a conference organized by the Analysys consultancy. "We're not sure traffic will compensate for the price drop."
+Such operators as industry leader Vodafone Group PLC are predicting mobile e-mail and Internet services will sharply increase traffic, and revenue, on their networks.
+The prediction underpins the belief they can make a profit on the 150-billion euros ($198.41-billion) spent on Europe's 3G licence fees.
+Martin Varsavsky, head of Spanish operator Jazztel, said it had been idiotic to pay the prices seen in the initial licence auctions in Britain and Germany.
+"We've finally realized we were idiots who were overpaying for hype," said Mr. Varsavsky, whose firm is leading a consortium bidding for a Portuguese 3G licence.
+He said there were many flaws in the business case for UMTS.
+The recently launched GPRS (General Packet Radio Switching) technology, which permanently connects mobile phones to the Internet, will meet most demands for wireless data and pose tough competition for UMTS.
+There were problems with 3G technology that made it unsuitable for delivering large amounts of data to people on the move.
+He also doubted people would want to watch video or download music while travelling, citing the precedent of pocket televisions. "Portable TVs looked great, many people bought them, but they didn't use them."
+But Bruce Akhurst, head of strategy at One 2 One, Deutsche Telekom AG's UK mobile operator, said the unexpected success of text messaging indicated 3G would yield profits.
+(Copyright National Post 2000)
+

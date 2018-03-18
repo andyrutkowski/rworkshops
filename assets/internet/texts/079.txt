@@ -1,0 +1,87 @@
+https://search-proquest-com.libproxy2.usc.edu/docview/445006820/65E7381ACB3047A1PQ/3?accountid=14749
+The relationship between Internet identification, Internet anxiety and Internet use
+Joiner, RichardAuthor Information; Brosnan, MarkAuthor Information; Duffield, JillAuthor Information; Gavin, JeffAuthor Information; Maras, PamAuthor Information. Computers in Human Behavior Vol. 23, Iss. 3,  (May 2007): 1408-1420.
+
+Abstract
+TranslateAbstract
+This paper reports a study investigating the relationship between Internet identification, Internet anxiety and Internet use. The participants were 446 students (319 females and 127 males) from two universities in the UK and one university in Australia. Measures of Internet identification and Internet anxiety were developed. The majority of participants were NOT anxious about using the Internet, although there were approximately 8% who showed evidence of Internet anxiety. There was a significant and negative relationship between Internet anxiety and Internet use. Those who were more anxious about using the Internet used the Internetless, although the magnitude of effect was small. There was a positive and significant relationship between Internet use and Internetidentification. Those who scored high on the measure of Internet identification used the Internet more than those who did not. There was also a significant and negative relationship between Internet anxiety and Internet identification. Finally, males had a significantly higher Internet identification score than females. Implications of these findings are discussed. (PsycINFO Database Record (c) 2016 APA, all rights reserved) (Source: journal abstract)
+Details
+Subject
+Computer Anxiety (major);
+Internet (major);
+Computer Attitudes
+Classification
+3120: Personality Traits & Processes
+2700: Communication Systems
+Age
+Adulthood (18 yrs & older); Young Adulthood (18-29 yrs); Thirties (30-39 yrs); Middle Age (40-64 yrs)
+Population
+Human; Male; Female
+Location
+Australia; United Kingdom
+Identifier (keyword)
+Internet identification; Internet anxiety; Internet use
+Test and measure
+Test name:
+Internet Identification Scale
+Test DOI:
+http://dx.doi.org.libproxy2.usc.edu/10.1037/t13591-000
+Methodology
+Empirical Study, Quantitative Study
+Title
+The relationship between Internet identification, Internet anxiety and Internetuse
+Author
+Joiner, Richard 1 ; Brosnan, Mark 1  (ORCID: 0000-0002-0683-1492); Duffield, Jill 2 ; Gavin, Jeff 1 ; Maras, Pam 3 
+
+1  Department of Psychology, University of Bath, Bath, United Kingdom r.joiner@bath.ac.uk
+2  School of Psychology, University of the West of England, Bristol, United Kingdom  
+3  Department of Psychology and Counselling, University of Greenwich, London, United Kingdom  
+Author e-mail address
+r.joiner@bath.ac.uk
+Contact individual
+Joiner, Richard, Department of Psychology, University of Bath, Bath, BA2 7AY, United Kingdom, r.joiner@bath.ac.uk
+Publication title
+Computers in Human Behavior
+Journal abbreviation
+Comput Human Behav
+Volume
+23
+Issue
+3
+Pages
+1408-1420
+Publication date
+May 2007
+Format covered
+Electronic
+Publisher
+Elsevier Science (Netherlands)
+Country of publication
+Netherlands
+ISSN
+0747-5632
+Peer reviewed
+Yes
+Language
+English
+Document type
+Journal, Peer Reviewed Journal, Journal Article
+Number of references
+43
+DOI
+http://dx.doi.org.libproxy2.usc.edu/10.1016/j.chb.2005.03.002
+Release date
+29 Jan 2007 (PsycINFO)
+Correction date
+27 Aug 2012 (PsycINFO)
+Accession number
+2007-00738-027
+ProQuest document ID
+621590362
+Document URL
+http://libproxy.usc.edu/login?url=https://search-proquest-com.libproxy2.usc.edu/docview/621590362?accountid=14749
+Database
+PsycINFO
+
+
+

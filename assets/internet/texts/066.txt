@@ -1,0 +1,23 @@
+https://search-proquest-com.libproxy2.usc.edu/docview/222802071/fulltext/A99E11F341C14D34PQ/3?accountid=14749
+Dear Editor: Dr Styra recently reviewed the impact of the Internet on psychiatry (1). Described below is a novel example of the use of the Internet in providing care. Instant messaging services are one of the many uses of the Internet and are a popular method of communication among many Internet users.
+Balachandra, Krishna, MDAuthor Information; Styra, Rima, MD, MEd, FRCPC. Canadian Journal of Psychiatry Vol. 49, Iss. 12, (Dec 2004): 866; author reply 866.
+
+Case Report
+A young man with hearing impairment presented to the emergency department with his mother. He was referred for suicidal ideation at approximately 3:00 AM. To complete the psychiatric evaluation and to ensure confidentiality, attempts were made to obtain a sign language interpreter. An interpreter would be available only in the morning, and the wait was unacceptable to the patient. Attempts to use paper and pencil to complete the assessment were less than ideal. A novel idea of using an Internet instant messaging system to complete the assessment was offered. The patient used 2 computers that were already set up side by side to complete the assessment. The patient and clinician logged on and connected via the messenger service. The close approximation of the computers allowed the clinician to observe the patient and to note any affective cues.
+Discussion
+Instant messenger service allows individuals who are on-line to communicate with each other. The above case describes the use of this service to complete a psychiatric assessment in a hearing-impaired individual. American sign language is a language in itself, complete with its own syntax and subtleties. Though the method used to complete the assessment was not ideal, it sufficed under the circumstances. The use of video will improve communication via instant messaging services. The cost of this service is considerably less than those associated with telepsychiatry, and it may be a useful tool in psychiatry in the future.
+References
+1. Styra R. The Internet's impact on the practice of psychiatry. Can J Psychiatry 2004;49:5-11.
+Krishna Balachandra, MD
+London, Ontario
+Response: The Internet's Impact on the Practice of Psychiatry
+Instant messaging (IM), also known as "chat," is the text version of a phone call. It has gained rapid acceptance with teenagers and young adults, who prefer this form of communication over e-mail and phone calls, because of its immediacy and streamlined efficiency. It is similar to having a conversation with a person in the same room.
+IM is gaining acceptance in the workplace and will likely become a core technology, much as e-mail is today. Security and auditing issues are critical concerns that must be addressed with respect to using IM in a health care environment, as patient confidentiality is of paramount importance. Security is a significant factor, since the text in an instant message is relayed to a Web server while en route to the person who will be the recipient of the message. This message can be viewed by anyone on the connection (that is, a service provider, employee, hacker, and so on). There are third party vendors that offer solutions to fill in the security and auditing gaps within IM by employing encryption algorithms and other measures.
+Technical issues aside, Dr Balachandra's example illustrates how IM technology can be used to improve patient service when human resources, such as an interpreter, are unavailable. IM is a technology that is familiar to the hearing-impaired community (1). IM also takes the guesswork out of penmanship as the message is in type and can easily be read. Dr Balachandra's example is a novel one and is relevant to the psychiatric community. Research is required to determine best practices and the economics of this technique.
+References
+1. Bowe FG. Deaf and hard of hearing Americans' instant message and e-mail use: a national survey. Am Ann Deaf 2002; 147(4):6-10.
+Rima Styra, MD, MEd, FRCPC
+Toronto, Ontario
+Word count: 616
+Copyright Canadian Psychiatric Association Dec 2004
+

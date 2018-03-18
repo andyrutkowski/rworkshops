@@ -1,0 +1,36 @@
+The voice quality wasn't real great, there were noticeable time lags in conversations, and both speakers had to have special software and/or hardware installed on their computers. But there was one great advantage - it was free. Someone in California could talk for hours to a friend in Europe with no long-distance phone bills. Since then, a whole industry has grown up around what is called Internettelephony as engineers struggle to improve voice quality and to make their products more user-friendly. Companies such as Net2Phone, deltathree.com and PhoneFree.com have emerged to lure communications customers away from the traditional phone companies.
+The technology has broadened, too. In addition to PC-to-PC connections as described above, you can use a properly equipped desktop computer to ring up any regular telephone in the world.
+You can also place calls from one phone to another, using an Internet telephone service to carry the conversation. These phone-to- phone calls tend to be cheaper than traditional long-distance calls.
+Other companies, like NetMeeting, added video to the mix. By plugging a video camera into each computer, you can both see and hear the party on the other end.
+But the promise of unlimited, free, PC-to-PC calls remains that - a promise. Technical problems have kept the technique out of the mainstream, at least for now.
+The biggest stumbling block is that to place a PC-to-PC call, both parties must be sitting at their computers - and be connected to the Internet - at the same time.
+"That's one of the things that make it not a big deal yet," said Dannie Walker, a telecommunications specialist at the state Public Service Commission. "It would be like the early days of telephones: if your friend didn't have a phone, you wrote a letter instead."
+There are other problems, too. Both computers must have microphones and speakers, and both parties must have the proper software. Each company has its own software, and they're incompatible. You also have to have the patience and knowledge - or a techie friend - to download, install and configure software and to learn how to use the on-screen interface.
+These aren't overwhelming problems. People who have successfully signed up with an Internet provider and learned to navigate e-mail systems can probably do it. But it's tough enough to discourage some.
+"It's like ham radio. You need special equipment," Walker said. "But for gearheads, for technology freaks, it's a way to save money."
+Herman Harless, engineering manager at the Charleston office of Intelos, would probably fit the definition of gearhead or technology freak. In the past year he oversaw the installation of Intelos' massive hardware array needed for its different services - Internetconnections, wireless PCs and local phone service. As such, he's well aware of Internet telephony products.
+"I've played with it when it was brand new," he said.
+"As an Internet provider, Internet telephony is just another kind of data we carry," Harless said. "It's invisible to us."
+But Harless said he designed the Intelos network to allow advance features like telephony to work better by reducing the time lag - or latency - that slow conversations. Some describe the latency effect as similar to that experience with cellular calls. Others say it's like long-distance calls carried by satellite: there's a tiny but noticeable delay at each end.
+To see how well the system works (and to help a technologically challenged reporter), Harless and some other Intelos engineers set up a demonstration a few days ago. Using a service called PhoneFree.com, Harless dialed up data network engineer Marty Fierbaugh, who was sitting about 10 feet away across the office.
+Harless spoke a few words into a hand-held microphone and, a second or so later, his voice squawked out of Fierbaugh's computer speakers. Unfortunately, because of a microphone shortage, Fierbaugh couldn't talk back.
+"You can hear it sort of clipping and there's a delay," Harless said of the voice quality. "That's the latency in the network. [The conversation] is going all the way out to PhoneFree and then back to here."
+A lack of bandwidth - not enough capacity to handle the needs of multiple Internet users - contributes to some of the quality problems, Harless said. Internet users encounter bandwidth problems when it takes longer than normal for Web sites to appear on their monitors.
+"If you have a T-1 line, a DSL line or some sort of high-speed access, you're OK," he said. People who connect to the Internet with dial-up modems will suffer more, though. "You can do it over a dial- up modem, but video doesn't work that well."
+Voice quality improves if the call can be handled entirely by a single Internet provider, he added. That makes the technology more practical for commercial clients who may want to connect offices in different parts of the state than for, say, an individual who wants to call relatives across the country.
+Harless' computer crashed, breaking the connection and demonstrating another possible glitch.
+Despite the current difficulties, industry experts agree that Internet telephony is here to stay. Even the old Bell companies like Bell Atlantic are getting into the act. PC-to-PC calls will become more practical as high-speed, always-on Internet connections like DSL lines spread into the more rural parts of the country.
+One company, Net2Phone, seemed to be overloaded this week, perhaps because of publicity generated by recent stories in the Wall Street Journal and the Washington Post that giant AOL is trying to gain control of the company.
+As its name implies, Net2Phone specializes in PC-to-phone and phone-to-phone services that compete with other long-distance phone providers. The company Web site touts PC-to-phone calls anywhere in the United States for a penny a minute.
+Spokeswoman Lee Suravlas said the company will carry calls from the states to the United Kingdom for 4.9 cents a minute, less than half the cheapest rate she could find at AT&T.
+Though one of the industry pioneers - it was founded in 1995 - Net2Phone does not yet offer PC-to-PC calls. That should change in a few months, Suravlas said.
+"PC-to-PC is going to be free," she said. "We're doing it in conjunction with ICQ, which is an instant messaging service used by AOL."
+Engineers at Net2Phone and elsewhere have found they can improve voice quality by using specially designed telephone handsets and headsets in place of microphones and speakers. Net2Phone is now offering inexpensive headsets to its customers.
+"The headsets and handsets optimize the quality of the phone call," Suravlas said. "If you have a speaker and microphone attached to your computer, there's a lot of reverb and echoing. But if you have a headset, there's no chance for a lot of background noise to get in."
+A headset also offers privacy at work, she said, as others won't hear your caller's voice blaring out from your speakers.
+For users who prefer Macintosh computers, there's more bad news. Although Net2Phone has rewritten its software 10 times now, it still doesn't offer a version for Macs.
+"We're working on that now," Suravlas said, "but there's no other services that work on Macs either."
+To contact staff writer Jim Balow, use e-mail or call 348-5102.
+Word count: 1207
+Copyright Charleston Newspapers Mar 26, 2000
+

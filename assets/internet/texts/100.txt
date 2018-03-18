@@ -1,0 +1,142 @@
+Study on the Application of Internet of Things in the Logistics in Forest
+Industry
+
+Chen Zhao1, a, Xisheng Li2,b and Junsong Chen1,c
+1Department of Forest Engineering, Nanjing Forestry University, Nanjing 210037, China
+2Department of Engineering Management, Nanjing Forestry University, Nanjing 210037, China
+aczh@njfu.edu.cn, bxishengli@163.com, ctianyirenjia@163.com
+
+Keywords: Internet of things, forest industry, logistics, RFID (Radio Frequency Identification)
+
+Abstract. The origin, the composition, the function, the application and the developing trend of the Internet of Things (IOT) were reviewed. The application of internet of things would greatly improve the information technology in logistics. The internet of things supported by RFID and sensor technology has been applied in the area of logistics. A framework of three technical systems of sensing, communication and network, and intelligence has been established. The present technology of internet of things in logistics of forest industry was analyzed. The application cases of the internet of things in timber storage, wood transportation and logistics of forestry biomass materials were shown with their system composition, management function and development.
+
+Introduction
+With the fast development of the Internet of Things, its application in logistics has been strengthened. In the area of forest industry, precise management is required to meet the demand of modern supply chain. As the result, the technology of Internet of Things is being applied in the logistics in forest industry in China and abroad. The combination of the Internet of Things and the logistics has shown their great advantage in modern industry. In this paper, the Internet of Things will be first introduced with its concept, origin, composition, function, application and future development. The RFID and sensor technology, as the key technology
+of the Internet of Things, is briefly reviewed. A framework of three technical systems of sensing,
+communication and network, and intelligence is established. The present technology of internet of things in logistics of forest industry is analyzed. The application cases of internet of things in timber storage, wood transportation and logistics of forestry biomass materials are shown with their system composition, management function and development.
+
+Concept of the Internet of Things
+Origin of the Internet of Things. The early concept of the internet of things was raised in the United States in 1999. In the World Summit of Information Society held in Tunisia in 2005, the concept of ‘the Internet of Things’ was clearly defined [1].
+The year of 2009 has been called the primary year of the Chinese internet of things. In 2010, the
+Chinese central government proposed the great nurturing of the strategic new industries and the
+research and development for rapid application of the internet of things. The economic scale of the internet of things had been estimated reaching two hundred billion RMB yuan in 2010. The 2010 China Conference on the Internet of Things was held in June, 2010. The internet of things has been formally listed as one of the five national strategic new industries developed in China. The national strategic development planning of the internet of things in 10 major areas is to be issued. The internet of things has become the practical supporter of information technology leading the industrialization.
+Composition and Function of the Internet of Things. The Internet of Things (IOT) is the third
+revolution of information industry after the computer and the Internet. It is developed from the man to man interaction in Internet to the thing to thing interaction. It is a huge information system constructed with the sensory layer, the network layer and the application layer. The function of the three layers is Applied Mechanics and Materials Vols. 97-98 (2011) pp 664-668
+Online available since 2011/Sep/08 at www.scientific.net
+© (2011) Trans Tech Publications, Switzerland doi:10.4028/www.scientific.net/AMM.97-98.664
+All rights reserved. No part of contents of this paper may be reproduced or transmitted in any form or by any means without the written permission of TTP, www.ttp.net. (ID: 165.215.209.15, ProQuest-21/10/13,11:13:07) to collect, to transfer and to process information. The sensory layer is responsible for the perception and the collection of information. The sensing examples are the automatic indoor temperature measurement, the smoke detection, the monitoring of sound, light and magnetism, the monitoring of geographic position. The network layer is to transfer information between the sensory layer and the application layer mainly by the Internet based on Web2.0. The application layer is in charge of analyzing and processing information, realizing the interaction, the feed backing and the operation between things and things and between men and things. The internet of things is defined as a kind of network which can connect any things to the Internet for information exchange and communication. The internet of things will apply the radio frequency identification (RFID), the infrared sensor, the global positioning system (GPS), the laser scanner and other information sensory devices according to certain protocol with present technology of network,
+database and middleware to fulfill intelligent identification, positioning, tracking, monitoring,
+controlling and management [1,2]. The internet of things is primarily depended on the technology of RFID and sensors. Therefore, there are two kinds of internet of things. One is based on the technology of RFID, and the other on sensors.
+The heart of the internet of things is the electronic product code (EPC) with the RFID as the key
+technology. The RFIDs are commonly called electronic tags. Everyone has an electronic
+identification card and everything owns an electronic tag. As the result, the real time interaction can be achieved between men and between men and things.
+
+Application of the Internet of Things
+The internet of things has entered various fields of social production and human life. In the
+reconnaissance of petroleum, a wireless sensor is embedded in the driller prober in order to get the real-time energy data in different depth underground. The system can help to decide whether to extract the energy by analyzing the data. In the area of logistics, the internet of things can monitor and analyze each of the traffic tools and commodities in real time, ensuring the safety, the rapidity and the efficiency in the logistics. Since 2005, Wal-Mart, the largest retail trader in the world, has required suppliers to stick RFID tags on their packages and trays, which has been gradually extended to cover each piece of commodities. In this way, the origin, the transportation, the storage and the transmission of all commodities can be identified, tracked, monitored and controlled.
+In China, the application of goods van identification system (ATIS) based on RFID has increased the income for the railway department by three hundred million RMB yuan per year. The Shanghai automotive Industry Corporation (Group) uses RFID to track the manufacturing quality along the automobile production line. During the Shanghai EXPO in 2010, the application of electronic rails provided 24h security protection for the over 3 km2 park, becoming a specific form of internet of things. In Beijing city, some streets have built up the ‘smart community’, which is a network homestead based on the technology of the internet of things. The smart community can provide 14 high-tech services such as virtual homes for the aged. In Xiamen city, the residents can use mobile phones to connect to the real-time video information of street crossings. A platform like the internet of things has been established to link all the population and geographic information of the city, offering information service to the residents.
+The internet of things can be applied to the following ten main areas: intelligent logistics,
+environment and security monitoring, industry and automation control, medical health work, precise agriculture and stock raising, monetary service, national defense and military affairs, intelligent electrical network, intelligent traffic, and household living. In the area of logistics, the product coding system will be improved and spread. The automatic identification technology such as bar codes, smart tags and RFIDs as well as the electronic dada interchange (EDI) technology will be widely applied.
+The technology of visualization, goods tracing and fast discriminating and picking of goods will be developed. Research and development on the technology and standards of moving logistics
+information service and RFID will be enhanced [3,4].
+Applied Mechanics and Materials Vols. 97-98 665
+RFID Technology in Logistics
+RFID is an automatic identification technology rising in the 90s of the 20th century. It uses the radio signal to transmit and identify information without touching the object. With the further development of RFID technology, it has been widely applied to areas of logistics, industry and business automation,
+traffic and transportation control and management. The application examples include traffic
+monitoring of trains, highway tolling and parking charging, object management, storage management, automation of production lines, entrance guard system, financial transaction, animal husbandry management, and automobile anti-stealing. RFID has become a fundamental technology in the information infrastructure of the modern society [5,6].
+RFID is composed of three parts: electronic tags, readers and antenna. An electronic tag (e-Tag) consists of coupling elements and chips, which has a unique code and is attached on the object to be identified. The reader is to read the information in the tag. The antenna is used to transmit the radio signal between the tag and the reader. The reader can send out radio signals in certain frequency through the antenna, which will transfer energy to the tag and write data in it. Then the tag will give out signals of its own code by the antenna. Finally, the reader will deliver the data to the main computer for data processing.
+Application of Internet of Things in Logistics
+The area of logistics is an important application field of the internet of things. Early in 1999, the
+geographic positioning system (GPS), the geographic information system (GIS) and the visualization management system had been studied for their use in logistics. In 2001, GPS was used to monitor goods transportation under network condition. Since 2003, some success cases have appeared which mainly applied the perception and positioning technology of GPS/GIS with Internet. The intelligent management and operation of network connection, tracing, positioning, dispatching and distribution of logistics vehicles and moving goods was achieved, showing the characteristics of internet of things.
+The model of internet of things based on RFID has been developed rapidly with the decrease of RFID price. In the project of shipping internet of things, the container RFID labeling system integrates RFID technology with the Internet, providing real-time information of the containers to commodity owners, harbors, shipping companies, customs and commodity checking departments. The system has improved the safety and the efficiency of container transportation significantly [7].
+The internet of things used in logistics consists of three systems: the identification technique
+system, the communication and network technique system, and the intelligent technique system. At present, the commonly used identification techniques are the technologies of RFID, GPS, sensor, video discernment and monitoring, machine vision, laser, infrared and blue-tooth. In order to connect different objects in motion or in storage, the logistics area makes use of the technologies of intranet, wireless regional network, Internet, on-site total bus and wireless communication. The Internet, sensor net, intranet, television network and telecommunication network are tending to reach cooperation and integration. The intelligent technology in logistics internet of things covers the technologies of smart computation, cloud computation, mobile computation, enterprise resources planning (ERP), data mining and expert system.
+In the logistics area of China, the commonly used identification techniques in frequent order are
+RFID, GPS/GIS, video and image identification, sensor, scanning, infrared, laser and blue-tooth.
+Multiple identification techniques are integrally applied in many cases. For example, RFIDs are
+combined with sensor technology, GPS with RFID, vehicle-equipped video with GPS. For data
+communication, the wireless communication is usually combined with wire communication. The new logistics information system has applied the advanced technology such as 3G communication. According to statistics, within the network communication for the logistics internet of things, 68% adopted the Internet technology, 63% used intranet technology, and 24% applied wireless regional network.
+666 Advanced Transportation
+
+Application of Internet of Things in Forest Industry Logistics
+The internet of things will play an important role in the forestry information technology especially in the ‘digital forestry’. It can be applied to the fields of forest fire protection, old and famous tree
+management, uncommon wild animal protection, timber tracing management, sapling and flower cultivation [8]. In the logistics in forest industry, there have been some studies and preliminary applications of the internet of things. Fig. 1 shows the general production process of forest industry.
+Fig. 1 Main production process in forest industry
+The RFID technology is introduced into the existing log storage management system. By taking the advantage of RFID for its repeated use, large capacity and non-manual usage, it is applied to collect data in each operation process of log production. The data inputting speed and accuracy is increased, assuring the timely and accurate data of stored logs in log yards. The major hardwares include RFID
+readers for the input and output of logs, RFID readers for log stock regions and positions, hand-held mobile RFID readers and log stock plates attached with RFID tags. The electronic tags are in the form of untouched nails or buttons of read-only or read-and-write types, benefiting the use in logs and in outdoor condition [9].
+The RFID has been used in the log storage and hauling system, which can trace the logs to be sold. The radio reader obtains the information of logs which is directly linked to the Internet for
+transmission. The system can guarantee a precise information flow in the log circulation process and help the whole-process tracing of logs.
+The MHG system company of Finland is a leading supplier of ERP system for biomass material
+energy production. The system can provide various solution schemes based on information
+technology and digital map service. The system can be applied to the industries of energy, biomass material fuel, forest harvesting, logging, transporting, forestry management and timber industry, covering the whole supply chain from forest regions to power plants fueled by biomass materials. The system can realize the precise identification, positioning, tracing, monitoring and management of biomass materials for fuel through the whole logistics process of harvesting, hauling, storing and distribution. The MHG system consists of three modules: field module, central processing module and office module as shown in Fig. 2. The field module applies sensors, mobile devices, smart cell phones, personal data assistants (PDAs), laptop/mini PC, Auto GPS and electronic maps. The field module can collect, exchange and transmit real-time information of the logging area and the hauling vehicles, including positioning data by GPS and electronic maps, positioning and tracing of vehicles on roads, records of fuel consumption and CO2 emission of individual vehicles. The central processing module provides 24h real-time information and makes automatic data backup daily. The office module manages various resources of biomass materials, customers, employers, contractors, machinery and equipments. The module can show the real-time distribution of employees, vehicles and machines on the map, track the vehicles on the roads and provide the decision makers for timely and precise reports and analytical report forms. The implement of the MHG system in Finland and Russia indicated a decrease of moisture content of biomass materials in transportation by five to ten percent, and reduced fuel consumption and CO2 emission of vehicles by eight to fifteen percent.
+Harvesting
+Pulp/paper mill
+Distributing
+Trees
+Log/
+biomass
+material
+Timber
+deck/
+yard
+Vehicle
+Hauling
+Fuel use, etc.
+Saw log mill/artificial board mill
+Applied Mechanics and Materials Vols. 97-98 667
+Fig. 2 Composition and function of MHG system for forest material supply chain management
+
+Conclusions
+The internet of things has developed rapidly. It will determine the direction of the modern information technology and practical application systems in all areas. The logistics in forest industry will govern the whole process of forest production from forest resources growing to resources exploitation and utilization. The modern intensive forestry definitely requires precise management. Thus, the internet of things will play an important role in the logistics of forest industry in the future.
+References
+[1] H. Li and H.J. Chen: Key technology and application prospect of the internet of things, Forum on
+Science and Technology in China, (2011) No. 1, p. 81-85 (in Chinese)
+[2] S. Roy, V. Jandhyala, J.R. Smith, et al: RFID: From supply chains to sensor nets, Proceedings of
+the IEEE, Vol. 98 (2010) No. 1, p. 1583-1592
+[3] J. Zhang: The next step is internet of things, China Logistics & Purchasing, (2010) No. 17, p.
+26-29 (in Chinese)
+[4] E. Welbourne, L. Battle, G. Cole, et al: Building the internet of things using RFID: The RFID
+ecosystem experience, IEEE Internet Computing, Vol. 13 (2009) No. 3, p. 48-55
+[5] N. Li, D.P. Qian and J.G. Zhang: Application of RFID technology in the ERP design of
+agricultural product processing enterprises, Journal of Anhui Agricultural Sciences, Vol. 38
+(2010) No. 12, p. 6557-6558, 6575 (in Chinese)
+[6] L.A. Amaral, F.P. Hessel, E.A. Bezerra, et al: ECloudRFID - A mobile software framework
+architecture for pervasive RFID-based applications, Journal of Network and Computer
+Applications, Vol. 34 (2011) No. 3, p. 972-979
+[7] X.Z. Wu and J.X. Wang: The application and development trend of the technology of internet of
+things in logistics, Logistics & Material Handling, (2011) No. 2, p. 53-59 (in Chinese)
+[8] Y. Wang, T.J. Zhou and Y. Li: Application and prospects of internet of things technology in
+info-forestry, Hubei Agricultural Sciences, Vol. 49 (2010) No. 10, p. 2601-2604 (in Chinese)
+[9] W. Li, T.Y. Dai and B. Wu: System design of timber warehouse management based on RFID
+technology, Journal of Heilongjiang Institute of Technology, Vol. 24 (2010) No. 1, p. 67-69 (in
+Chinese)
+MHG system
+Field module Central proceccing
+module
+Office module
+Sensors
+Mobile devices
+Smart cell phones
+PDAs
+Laptop/mini PCs
+Auto GPS
+Electronic maps
+1. Provide real-time
+information.
+2. Automatic data
+backup.
+1. Show real-time tracking of
+personnel and vehicles.
+2. Provide reports and
+analysis on material moisture
+content, fuel consumption
+and CO2 emission of
+vehicles.
+668 Advanced Transportation
+Advanced Transportation
+10.4028/www.scientific.net/AMM.97-98
+Study on the Application of Internet of Things in the Logistics in Forest Industry
+10.4028/www.scientific.net/AMM.97-98.664
+Reproduced with permission of the copyright owner. Further reproduction prohibited without
+permission.
+

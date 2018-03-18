@@ -1,0 +1,411 @@
+The internet
+Author: Al-Shahi, R; Sadler, M; Rees, G; Bateman, D
+Publication info: Journal of Neurology, Neurosurgery and Psychiatry ; London  Vol. 73, Iss. 6,  (Dec 2002): 619.
+http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/1781519278?accountid=14749
+Abstract: The growing use of email and the world wide web (WWW), by the public, academics, and clinicians-as well as the increasing availability of high quality information on the WWW-make a working knowledge of the internet important. Although this article aims to enhance readers' existing use of the internet and medical resources on the WWW, it is also intelligible to someone unfamiliar with the internet. A web browser is one of the central pieces of software in modern computing: it is a window on the WWW, file transfer protocol sites, networked newsgroups, and your own computer's files. Effective use of the internet for professional purposes requires an understanding of the best strategies to search the WWW and the mechanisms for ensuring secure data transfer, as well as a compendium of online resources including journals, textbooks, medical portals, and sites providing high quality patient information. This article summarises these resources, available to incorporate into your web browser as downloadable "Favorites" or "Bookmarks" from www.jnnp.com , where there are also freely accessible hypertext links to the recommended sites.
+Links: https://usc-primo.hosted.exlibrisgroup.com/openurl/01USC/01USC_SP??url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;genre=unknown&amp;sid=ProQ:ProQ%3Acentral&amp;atitle=The+internet&amp;title=Journal+of+Neurology%2C+Neurosurgery+and+Psychiatry&amp;issn=00223050&amp;date=2002-12-01&amp;volume=73&amp;issue=6&amp;spage=619&amp;au=Al-Shahi%2C+R%3BSadler%2C+M%3BRees%2C+G%3BBateman%2C+D&amp;isbn=&amp;jtitle=Journal+of+Neurology%2C+Neurosurgery+and+Psychiatry&amp;btitle=&amp;rft_id=info:eric/&amp;rft_id=info:doi/10.1136%2Fjnnp.73.6.619
+http://libproxy.usc.edu/login?url=https://usc.illiad.oclc.org/illiad/illiad.dll/OpenURL??ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Acentral&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=Journal+of+Neurology%2C+Neurosurgery+and+Psychiatry&amp;rft.atitle=The+internet&amp;rft.au=Al-Shahi%2C+R%3BSadler%2C+M%3BRees%2C+G%3BBateman%2C+D&amp;rft.aulast=Al-Shahi&amp;rft.aufirst=R&amp;rft.date=2002-12-01&amp;rft.volume=73&amp;rft.issue=6&amp;rft.spage=619&amp;rft.title=Journal+of+Neurology%2C+Neurosurgery+and+Psychiatry&amp;rft.issn=00223050
+http://libproxy.usc.edu/login?url=https://usc.illiad.oclc.org/illiad/illiad.dll/OpenURL??ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Acentral&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=Journal+of+Neurology%2C+Neurosurgery+and+Psychiatry&amp;rft.atitle=The+internet&amp;rft.au=Al-Shahi%2C+R%3BSadler%2C+M%3BRees%2C+G%3BBateman%2C+D&amp;rft.aulast=Al-Shahi&amp;rft.aufirst=R&amp;rft.date=2002-12-01&amp;rft.volume=73&amp;rft.issue=6&amp;rft.spage=619&amp;rft.title=Journal+of+Neurology%2C+Neurosurgery+and+Psychiatry&amp;rft.issn=00223050
+Full text:   "There are billions of neurons in our brains, but what are neurons? Just cells. The brain has no knowledge until connections are made between neurons. All that we know, all that we are, comes from the way our neurons are connected." Tim Berners-Lee, Weaving the web 1
+The internet-the largest network of computer networks-is the most important development in global communication since both the television and the telephone. The internet offers high speed communication and up to the second information in a cheap, user friendly medium. Access is potentially universal, notwithstanding the digital divide between developed and developing countries caused by a lack of hardware and telephone lines. 2 However, the internet is often maligned for being an unsafe, unstructured, uncontrollable occupational hazard with strange customs and jargon, which is time ineffective because of its low signal to noise ratio and potentially addictive nature ( www.netaddiction.com ).
+The challenge now is not to get on line but to keep abreast of developments in internet technology and health information delivery to both professionals and patients, and to make the most effective use of them. This series of review articles and subsequent Neuronline fillers are intended to help with that process. Although the nature of the internet prevents this review from being comprehensive, the review aims to provide and build on a basic knowledge of the internet, with a focus on email and the world wide web (WWW), and with a slight bias towards content from the United Kingdom. If you are a newcomer to the internet you may wish to refer to table 1 and to supplement this article by reading a general guide to the internet 3 or existing review articles. 4- 8 There are also guides to the internet specifically for doctors such as the Internet Medic section of the Resource Discovery Network ( www.vts.rdn.ac.uk ) or Medicine and the internet . 9
+Table 1 Glossary of abbreviations
+Abbreviation
+Name
+Definition
+ADSL
+Asynchronous digital subscriber line
+* A broadband telecommunication technology
+ARPA
+Advanced Research Projects Agency
+* The central research and development organisation of the US Department of Defense
+bps
+Bits per second
+* The standard rating of speed of data flow
+CGI
+Common gateway interface
+* A means of generating dynamic content from a database on the WWW
+DNS
+Domain name system
+* A means to translate host names into IP addresses
+eTOC
+Electronic table of contents
+* An emailed table of contents of an online journal
+FTP
+File transfer protocol
+* A means to exchange files between servers over a network
+GIF
+Graphics interchange format
+* A compressed image format using minimal memory, best for block images
+HTML
+Hypertext markup language
+* The principal programming language used to write pages on the WWW
+HTTP
+Hypertext transfer protocol
+* The communication protocol used by servers to send files to browsers
+ISDN
+Integrated services digital network
+* Digital telephone connections delivering broadband internet access
+ISP
+Internet service provider
+* An intermediary company that connects a user to the internet
+IP address
+Internet protocol address
+* One of a potential 4.2 billion 32 bit numbers in dotted decimal notation identifying a computer on the internet
+JPEG
+Joint Photographic Expert Group
+* A compressed image format using minimal memory, best for shaded photographic images
+LAN
+Local area network
+* A network serving a small geographical area, which permits faster transmission speeds. Versus MAN and WAN
+MAN
+Metropolitan area network
+* A network in a geographical area larger than a LAN but smaller than a WAN
+Modem
+Modulator/demodulator
+* Converts digital to analogue signals and back, to enable computers to communicate over a telephone line
+MPEG
+Moving Picture Expert Group
+* The digital format encoding video images, displayed by dedicated software
+NeLH
+National electronic Library for Health
+* A digital library for NHS staff in the UK
+PDF
+Portable document format
+* A universal electronic document format that enables the style and layout of text and images to appear identical to the printed page
+PGP
+Pretty good privacy
+* Freely available encryption software
+POP
+Point of presence
+* Types of servers that convey email
+RDF
+Resource description framework
+* An infrastructure that enables the exchange of metadata
+SHTTP
+Secure hypertext transfer protocol
+* A communications protocol for financial exchanges over the internet
+SMTP
+Simple mail transfer protocol
+* A communications protocol for regulating traffic between mail servers
+SSL
+Secure sockets layer
+* A communications protocol for transmitting private documents via the internet
+TCP/IP
+Transmission control protocol/internet protocol
+* The universal communication protocol used by the internet to transmit packets of data
+URL
+Uniform resource locator
+* The unique address of a file accessible over the internet (fig 2 )
+W3C
+World Wide Web Consortium
+* A forum for information, commerce, communication, and collective understanding of the WWW
+WAN
+Wide area network
+* A network in a geographical area larger than a LAN and a MAN
+WWW
+World wide web
+* A global collection of interconnected servers, whose contents are viewed through a browser
+XML
+Extensible markup language
+* A universal format for structured documents and data on the WWW
+SEARCH STRATEGY
+This article is based on our own knowledge and a search of the following:
+Ovid Medline (1966 to 1 August 2001) for review articles in the English language in which the medical subject heading terms "Computer communication networks" and "internet" were the focus ( http://biomed.niss.ac.uk );
+The WWW;
+The British Medical Journal 's medical informatics collected resource ( www.bmj.com/collections ).
+ORIGINS OF THE INTERNET
+The origins of the internet date back to the launch of the Russian satellite Sputnik in 1957. 10 The subsequent fear of the cold war becoming nuclear prompted the American government one year later to fund the Advanced Research Projects Agency (ARPA) to develop a means of electronic communication to secure American military technological superiority ( www.isoc.org/internet/history/brief.shtml ).
+Two ways of broadening computer accessibility were time sharing-which enabled one computer to divide its processing capacity between different users connected to it simultaneously-and linking computers to form a network. The obstacle to developing networks was the incompatibility of their diverse operating systems. ARPA overcame this by developing a core network of identical interconnected computers, each known as an interface message processor, to which computers with diverse operating systems could connect to form the "ARPANET". Data were transmitted within this network, as they still are now, using an innovation called packet switching, in which messages are broken into equal packets each labelled with a header identifying its source, its destination, its position in the sequence, and whether the packet had become corrupted in transmission. Interface message processors routed messages, reassembled them at their destination, and re-sent them if they were corrupted in transit. In such a decentralised, distributed network, bottlenecks could be avoided and even the loss of portions of the network would not prevent the flow of information. When ARPANET was launched at the end of 1969, there were four nodes, but by the end of 1972 there were 37 nodes across the United States. The network was extended across the Atlantic the following year.
+As other networks of varying reliability were developed-predominantly in academic and military institutions-a unifying method of interconnecting them was needed. This was achieved by using gateways (called routers) between the separate networks that understood the protocols used by computers communicating across them and the now standard method of packet switching, called transmission control protocol/internet protocol (TCP/IP). IP handles the naming, addressing, and routing of packets, leaving TCP to split data, wrap them in virtual envelopes, reassemble them in the correct order at the destination host, and request retransmission of any packets that are lost or corrupted.
+The internet has a hierarchical network structure linked through a backbone of supercomputers permanently joined by high speed optical cable connections, which traverse land and ocean. Metropolitan (MANs) and wide area networks (WANs) provide higher performance for larger geographical areas, being less dependent on the backbone. Local area networks (LANs) serve organisations such as the NHS in the United Kingdom.). Internet service providers (ISPs) link individual users to the internet through national point of presence (POP) networks in their vicinity.
+Simplified schema of the internet. FTP, file transfer protocol; ISP, internet service provider; LAN, local area network; WWW, world wide web.
+ARCHITECTURE OF THE INTERNET
+The terms "internet" (or "the net") and "world wide web" (or "the web") are often used interchangeably as if they were synonymous, without appreciating that the WWW is one of many services available on the internet. These other services include email, file transfer protocol (FTP), network news, Telnet (a means of accessing a remote, networked computer), and instant messaging (a means of detecting when others are connected to the internet and sending them a text message, approximating a real time conversation). Although telemedicine uses electronic communication technologies to deliver and support health care over long distances ( http://tie2.telemed.org ) the internet is not the main method used, so we will not deal with it further.
+The world wide web
+The WWW accounts for the majority of internet traffic. Tim Berners-Lee invented it at the European Centre for Nuclear Research (CERN) in 1989-90 as a means of sharing and cross referencing physics research in a consistent format. 1 While the underlying structure of the WWW has hardly changed since its invention, its function has developed enormously.
+Browsers are software applications that create a user friendly virtual window on many of the internet services, behind which their different communication protocols are kept well hidden. The launch of the Mosaic browser in 1993 was the revolutionary development largely responsible for popularising the WWW; it could handle graphics as well as text, and navigation merely involved pointing and clicking with a mouse, rather than knowledge of the UNIX programming language. Browser technology is continually developing ( www.browsers.com ). The two main browsers are Microsoft Internet Explorer ( www.microsoft.com/window/ie ) and Netscape Navigator ( http://browsers.netscape.com ). The current browser series for use with recent operating systems is 6.x (the decimal after the series number indicates the particular version, denoting new features and fixed program bugs).
+Pages on the WWW are held on servers (computers dedicated to sending, storing, or receiving information, usually permanently connected to the internet). The content and style of pages on the WWW were originally written exclusively in hypertext markup language (HTML), the pages were connected by hypertext links, and hypertext transfer protocol (HTTP) was used to transfer a web page written in HTML from server to browser. This WWW went public on 15 January 1991, and by November 1992 there were 26 WWW servers.
+However, as the number of servers grew, unique dotted decimal IP addresses in the format 111.222.333.444, giving a possible 4.2 billion locations, were developed to identify each host server. Because humans prefer words and computers prefer numbers, invisible domain name servers now automatically translate exclusive case sensitive uniform resource locators (URLs)-developed to identify each page on the WWW (fig 2)-into the IP address of their host server. A client browser uses the path and file names in the URL to request the specific page from the server.
+The components of a uniform resource locator (URL).
+Text has been enhanced by a variety of media such as images (GIF and JPEG), video clips (MPEG), and sounds (WAV and MP3). A variety of programming languages have since enhanced the static content delivered by HTML with dynamic and interactive functions, such as searching databases and submitting data on WWW based forms. The World Wide Web Consortium (W3C) develops these technologies and their specifications, and issues guidelines on their use ( www.w3.org ). For example, JavaScript is a language embedded in HTML that is interpreted by a client's web browser and enables simple functions such as a change in a page's appearance in response to the location of the cursor. Another language, Java, is used to write small applications known as "applets", which are separately downloaded and executed by a web browser. The common gateway interface (CGI) defines how forms dependent on client side input (for example search facilities) communicate with servers running interactive applications such as databases. A structured, semantic WWW will be developed in the future using machine readable languages such as resource description framework (RDF) and extensible markup language (XML) to enable, for example, simple translation of web sites ( http://babelfish.altavista.com ).
+To make the most of the WWW, there are several simple ways to enhance your browser use, which will make your online experience easier, quicker, and more controllable (table 2).
+Table 2 Enhance your use of a browser
+*Change these under the "Tools" menu, "Internet Options" of Internet Explorer or the "Edit" menu, "Preferences" of Netscape Navigator. URL, uniform resource locator. Maintain software
+* Use the latest version of your browser (determine which version you are using under the "Help" menu, "About")
+* Update your browser monthly with the latest security patches
+* Use the latest versions of free software to view multimedia content
+PaintShop Pro ( www.jasc.com/products/psp )
+Adobe Acrobat Reader ( www.adobe.com/products/acrobat )
+Shockwave ( www.macromedia.com/shockwave )
+QuickTime ( www.quicktime.com )
+RealPlayer ( www.real.com )
+* Install virus protection software and keep it up to date ( www.symantec.com , www.nai.com , www.zonelabs.com )
+Shorten the time you spend on line
+* Use the world wide web before global use rises (between midnight and noon in Europe)
+* Use mirror sites located in, or close to, your own country
+* Download only text and omit multimedia content if the bandwidth of your connection is low*
+* If you pay for the time you are connected to an internet service provider, download pages as you browse in separate windows (by holding the shift key down while you click on links) and read them later when you are off line
+Minimise memory use
+* Choose to install only the components of the browser that are essential to you (a full installation can consume up to 40 MB)
+* Set your "History" folder to store web pages only for as long as you will need them*
+* Optimise the size of your cache or "Temporary Internet Files" folder*
+Customise your browser
+* Set your browser's home page to a blank page (about:blank) or the web site you use the most*
+* Organise your "Favorites" or "Bookmarks" into folders
+* Set your preferred font type* and size (under "Text Size" on the "View" menu)
+* Maximise the viewable area in your browser by removing the explorer bar and customising toolbars to show only the functions you use (as small icons)*
+* Use the appropriate default programs for sending email, etc, from your browser*
+Take short cuts
+* When typing URLs, omit "http://", as your browser will automatically append it
+* Use copy and paste functions to transfer URLs between documents and browser
+* Right click with your mouse to save images, sounds, or videos from a web site to your hard drive
+* If a web site cannot be found with the URL you have entered, try shortening it from the right hand end towards the domain name (fig 2 ) or use a search engine
+Electronic mail (email)
+Email rivals post, facsimile, and telephone as the fastest, cheapest, most accessible, and most convenient way of transmitting text and files of any format between one or many networked computers. 7 The format of an email address is person@hostname , where the host name is the domain name of the internet host. Most email is accessed purely on the WWW (web mail) or through ISPs providing a mail server (POP mail) conveying emails that are read in an email viewing program. Popular web mail among doctors in the United Kingdom registered with the General Medical Council is available through www.doctors.net.uk , which is also a portal (see below) for medical information. Many people have more than one email address, which can be aggregated by viewing programs as well as web mail ( www.mail2web.com ), provided you have your POP mail server name, username, and password for each account. Email can also unify other commonly used methods of communication such as fax and voice mail by converting these messages into an attachment ( www.j2.com ).
+File transfer protocol
+FTP is the most efficient method of transferring documents and software over the internet. A resource can be compiled on a remote server and a recipient can retrieve files from that resource at their leisure (rather than suffering a prolonged download time by email or waiting for a disc to arrive by post). Although there are programs dedicated to handling FTP (called FTP clients), modern web browsers are able to perform the same functions. Files are often compressed to economise on server space and speed transmission using freely available software (for example, www.winzip.com ). While access is restricted to some FTP sites, anonymous FTP sites offer free files and software-called freeware and shareware-that can be searched using Archieplex ( http://archie.emnet.co.uk ).
+Network news
+There are close to 100 000 newsgroups, which are accessible from news servers (available on most networks and ISPs, although often in reduced numbers). Newsgroups can be viewed with a newsreader program but more often the multipurpose web browser is used. Newsgroups are indexed by http://groups.google.com . Newsgroups are similar to a bulletin board: discussion topics (called threads) are started in the relevant newsgroup and participants post opinions. There is considerable flexibility in the system, as observers choose which threads and messages to retrieve or censor, and which participants to censor, especially if they do not obey "netiquette" (see below). The lifetime of messages can be short to economise on the server space used to store them.
+INTERNET ACCESS AND PERFORMANCE
+The three fundamental requirements for internet access are a computer, a connection to the internet (via a LAN at work or an ISP at home), and web browser software. Attributes of the computer and your connection, in addition to the volume of internet use at the time, determine the speed and reliability of your access to the internet. 12
+The connection capacity is known as bandwidth and is rated in bits per second (bps). Dialup modems are the commonest means of accessing the internet from home; modems convert digital into analogue signals suitable for transmission through a telephone network and convert received analogue signals back into digital data. Modern telephone modems are rated at 56 000 bps (or 56 Kbps), and with eight bits in a byte (each byte determining one character), they can transmit seven kilobytes-or 7000 characters-per second, although 32-40 Kbps is the best seen in practice. Faster access, continuous connection, and simultaneous telephone access are provided by pure digital services offering broader bandwidth (broadband), which also eliminate the ~30 second dialup modem connection time. Integrated services digital network (ISDN) and asynchronous digital subscriber line (ADSL) use telephone lines with modified hardware to send digital signals-without the need for analogue transformation-at capacities of up to 128 Kbps and 6 Mbps, respectively. Cable and satellite also offer broadband telecommunications of 1-10 Mbps. These and wireless networks (such as www.bluetooth.com ) are the emerging telecommunications for the internet, but they are costly for now, some require bandwidth to be shared with one's neighbours, and access is limited in some countries and in rural areas.
+If you connect to the internet via an ISP, performance will also be determined, in part, by which internet backbone(s) the ISP connects to, what connection speed they support, and whether there is a local POP server. Moreover, the greater the bandwidth between your computer and your ISP's server, the more the speed of internet access is limited by the speed of the connection between your ISP's server and the other servers making up the backbone of the internet. All ISPs should provide POP email addresses and some also provide a few megabytes of server space where you can post a web site. Attention should be paid to whether there is a charge for setup and the expense of calls for customer support and to dialup (do they charge local rates only and are off peak discounts offered?). For example, in the United Kingdom free access is possible because local calls are metered, and an ISP would gain revenue from your telephone bill and often astronomical helpline rates. Web sites have grown up to specifically inform consumers about the relative merits of the wide variety of ISPs (for example, www.ispreview.co.uk ).
+Once you've established a satisfactory connection to the internet, the resources available can revolutionise your life, if you know where to find them and how to make the most of your online experience. In the following sections we discuss issues likely to concern the JNNP readership, we describe ways of enhancing the use of the WWW and email, and we provide a directory of web sites of general medical interest (table 3).
+Table 3 Useful web sites by category
+All web sites accessed 26 July 2002. FTP, file transfer protocol; URL, uniform resource locator; WWW, world wide web. These URLs are dowloadable as a Bookmarks/Favorites file from the JNNP web site ( www.jnnp.com ). Site
+URL
+Description
+Searching the internet
+Google
+www.google.com
+* One of the largest search engines
+Copernic
+www.copernic.com
+* A free search agent that searches multiple directories and search engines
+Archieplex
+http://archie.emnet.co.uk
+* FTP search agent
+Google newsgroups
+http://groups.google.com
+* Newsgroup indexing service
+Medical portals
+National electronic Library for Health
+www.nelh.nhs.uk
+* A partnership with NHS libraries to develop a digital library for NHS staff, patients, and the public
+TRIP database
+www.tripdatabase.com
+* A free searchable database of over 55 sources of high quality, evidence based information and online journals
+Netting the Evidence
+www.nettingtheevidence.org.uk
+* A comprehensive resource for evidence based practice
+BIOME
+http://biome.ac.uk
+* A searchable catalogue of quality internet health and biomedical resources (incorporating Organising Medical Networked Information (OMNI))
+Doctors.net
+www.doctors.net.uk
+* A free news, discussion, literature, jobs, and email service for doctors in the United Kingdom
+Medical conferences
+www.medicalconferences.com
+* An interactive free compendium of worldwide medical conferences
+Journals
+PubMed
+www.ncbi.nlm.nih.gov/entrez
+* Provides a searchable version of Medline with links to online journals, integrated with other protein, nucleotide, and genome databases
+PubMed Central
+http://pubmedcentral.nih.gov
+* A digital archive of life sciences journal literature
+Free Medical Journals
+www.freemedicaljournals.com
+* A portal dedicated to indexing and promoting free access to medical journals on the WWW
+Zetoc
+http://zetoc.mimas.ac.uk
+* The British Library's email service for all their journals' latest tables of contents
+BioMed Central
+www.biomedcentral.com
+* An independent publishing house committed to providing immediate free access to peer reviewed biomedical research
+Textbooks
+Free Books 4 Doctors
+www.freebooks4doctors.com
+* A portal dedicated to free access to medical books on the WWW
+eMedicine
+www.emedicine.com
+* A free, WWW only textbook of medicine
+Research resources
+Current Controlled Trials
+www.controlled-trials.com
+* Promotes the availability and exchange of information about ongoing randomised controlled trials in all areas of health care
+BioMedNet
+www.bmn.com
+* A portal for biological medical researchers
+Wisdom
+http://wisdom.wellcome.ac.uk
+* A comprehensive United Kingdom research funding database
+For patients
+Patient UK
+www.patient.co.uk
+* A directory of United Kingdom health and disease related web sites for patients
+Healthsites
+www.healthsites.co.uk
+* A portal for health related information, with sections for patients or doctors
+MedicDirect
+www.medicdirect.co.uk
+* Portal for health related information for both patients and doctors
+QuackWatch
+www.quackwatch.com
+* Surveillance of bogus health web sites
+Dictionaries
+Online medical dictionary
+http://cancerweb.ncl.ac.uk/omd
+* A searchable dictionary
+Who Named It?
+www.whonamedit.com
+* Dictionary of eponyms
+MEDICAL CONCERNS ABOUT THE INTERNET
+The quantity of medical information on the internet and the escalation of its use by both providers and consumers of health care have led to specialists in "cybermedicine" studying its application, impact, and evaluation. 13 Two of their greatest concerns are security and the quality of information, for both patients and doctors.
+Security
+Security was not a major concern in the original design of the internet. The communications protocols underlying the WWW (HTTP) and email (simple mail transfer protocol (SMTP)) leave communication open to interception by traversing many different computers, which has led to the use of encryption (in which a message is encoded by the sender and decoded by the receiver). Because the online community sees the main methods of encryption as potentially vulnerable to covert surveillance by government agencies who know how they work, other security measures have developed.
+The transmission of health related data in particular should be confidential, unmodified, authenticated, and impossible to renounce. 14 The responsibility for this rests with administrators running networks and servers as much as it rests with individual users. These standards pose a challenge for electronic patient records projects (although they avoid the drawbacks of paper based records being unavailable, incomplete, and insecure) 15 but electronic records do require coding systems, standard communication protocols, and secure electronic protection, for example, using smart cards. 16, 17 While a secure WAN called NHSnet ( www.nhsia.nhs.uk/nhsnet ) is being developed in the United Kingdom with expanding capabilities in this area, one web site provides dedicated electronic medical records for a fee ( www.personalmd.com ).
+Theses issues aside, to maximise the security of communication over the internet, there are a few key precautionary measures to take, depending on the medium.
+The world wide web
+The most widely used encryption algorithm is 128 bit key RSA (named after the initials of its inventors), which relies on mathematical properties of large prime numbers. RSA is used by Netscape Communications' reference standard secure sockets layer (SSL) protocol and the secure hypertext transfer protocol (SHTTP) developed by CommerceNet. A URL that begins with "https://" means that the server is secure, indicated by a closed padlock image on the status bar of your browser. It is your responsibility, however, to ensure that SSL is activated in the Options/Properties menu of your browser; the server checks only that you enter the SSL port and not whether your browser is actually using SSL.
+Other security measures you can take for browsers are using the current version of your browser (which would be compatible with the latest security software and have known security risks protected), setting a medium to high level of security (in Tools/Internet Options), disabling AutoComplete functions for forms (to stop your browser storing your passwords), and disabling embedded client side programming languages (such as Java), which would otherwise expose your browser to threats from applets that can exploit the data on your computer.
+Lastly, "cookies" deserve special mention; they are small files placed on your computer by a web site host server ( www.cookiecentral.com ). Because some IP addresses are not static but are dynamically allocated (for example, when you dial in to an ISP, addresses are allocated from its limited pool of IP addresses), cookies were developed to enable their web site of origin to recognise a specific returning user. By aiding recognition, cookies speed up logging into password protected zones and allow personalisation of WWW content, but they also help web site developers to assess their site's traffic and monitor viewing habits. Clearly, using cookies is unwise on shared computers but it is a matter of personal preference as to who accepts them and whether you enable the cookie alerting mechanism in your browser. The only cost of greater security, of course, is that you will be unable to benefit from the enhancements offered by cookies and Java applets.
+Email
+Although emails can potentially be intercepted, the sheer volume of internet traffic makes this unlikely, unless your account is specifically surveyed, for example, by administrators with access to your incoming mail server. In countries where email monitoring by employers is legal, interception cannot be prevented. However, email can be rendered decipherable to only its intended recipients by using public-private key encryption methods. One example is a new freely downloadable format called pretty good privacy (PGP), available from www.pgpi.org . The legality of using encrypted email for the transmission of patient identifiable data is, to our knowledge, as yet untested in the United Kingdom.
+The other main email security issue is the inadvertent receipt of malicious programs that are designed to extract themselves and spread, called viruses, Trojan horses, worms, or blended threats, which are combinations of them. When a user performs an action (such as opening an email attachment), a virus may infect other programs or hidden system files, a worm replicates itself over a network (for example, by sending itself to all contacts in an email address book), and a Trojan horse opens a port to the internet to allow unauthorised access to your computer or network. In the main, these threats can be avoided by not opening email from suspicious senders or suspicious attachments from known contacts. Additional protection can be provided by installing a personal or network firewall, which is software or hardware, or a combination of both, that protects incoming (and outgoing) traffic and ensures that only authorised ports are visible to the internet ( www.zonelabs.com ). The other essential measure is to install virus protection software and keep it up to date ( www.symantec.com or www.nai.com ).
+Finally, once you have an email address you may receive unsolicited junk mail ("spam") from advertisers, who use sophisticated software to scavenge your email address from sources on the internet. This likelihood is increased if you sign up to public newsgroups, discussion forums, or email directories. A prudent strategy is to have at least two email addresses, one of which is solely for personal mail.
+Information quality
+Freedom to publish on the WWW is responsible for its best and worst characteristics: valuable innovation diluted by extraneous information. Although high quality information is promoted by various organisations such as the Health for Help Trust ( www.hfht.org ), it seems that high quality information about common conditions is often difficult to find, incomplete, and inaccurate and uses language that is too complicated. 18
+Because poor quality information about health is at best misleading, and at worst harmful, critical appraisal is necessary, but who should perform it? Patients would find an instrument to assess each web site they visit helpful. Although none of these assessment tools is validated,).
+Internet commentators are divided as to whether quality filters or standards and evaluation instruments should exist at all. 23 If instruments are to be used, there are demands for evidence of their effectiveness. 19 Future solutions include software that searches a web site's invisible metadata (assigned by its author) and a rating service for information about the web site's content and context. 24
+WORLD WIDE WEB RESOURCES
+While web sites designed to find what you want on the WWW inevitably reflect the information available, their ability to recognise which web site is most relevant to your requirements has become excellent.
+Search engines, subject directories, and search agents
+The web sites that help you find your way around the WWW are freely accessible. They may be search engines (for example, www.google.com ), which automatically scour the WWW itself for sites of relevance, directories of sites compiled and reviewed by the authors of the directory (for example, http://dmoz.org ), hybrids of the two (for example, www.altavista.com ), or search agents (for example, www.copernic.com ).
+Search engines are valuable for their sensitivity, whereas directories have a higher specificity. 25 Up to date information on the relative merits of the various engines is available from a site called Search Engine Watch ( www.searchenginewatch.com ). At the time of going to press Google ( www.google.com ) and AllTheWeb ( www.alltheweb.com ) vie for the largest and most comprehensive index.
+Subject directories-also called gateways or portals-are usually indexed in a hierarchical file structure and are rated by the people who compile them, so local information is best found on the regional version of the directory (for example, http://uk.yahoo.com, rather than www.yahoo.com ). Although directories have a health category, the highest quality medical information is to be found on specialist portals (below).
+Crucial to finding the web site closest to your requirements is using search terms most specific to your needs, yet sensitive enough not to miss anything useful. Most important, read the About section of the search engine or directory you choose to use. Engines can search for particular types of file (for example, web pages, sound files, and graphics), in certain languages, using suggested keywords and Boolean commands (to incorporate multiple terms, for example, or to exclude others).
+Undoubtedly the most powerful method of finding the information you want is to use a search agent, such as Copernic ( www.copernic.com ), which automatically searches multiple search engines and directories with your search terms, removes duplicates, and compiles and ranks the results.
+Medical portals
+Search engines are best used with very specific search terms but they tend to return an overwhelming quantity of health information of generally poor quality with a general term, such as the name of a disease. The accessibility, format, and functionality of the WWW enable medical portals to come into their own in providing indexed, comprehensive databases of high quality information and they enable journals and even textbooks to be reproduced on line. 26, 27
+However, there is a profusion of medical portals offering these collated resources to doctors, patients, or both (generally from North America with URLs beginning with www.med or www.MD), sometimes requiring a subscription. Because of the fierce competition in this area, the portals are subsuming each other (for example, www.medscape.com was recently acquired by www.webmd.com ). Your country of origin will partly influence your choice of portal; HealthWeb ( http://healthweb.org ) and BIOME ( http://biome.ac.uk ) are high quality resources in North America and the United Kingdom, respectively. The "list of lists"-the Hardin Meta Directory ( www.lib.uiowa.edu/hardin/md )-is inevitably compendious but has a lower signal to noise ratio. Some portals, such as Doctors.net ( www.doctors.net.uk ), go even further to try to foster an online community by offering other services such as discussion forums, a searchable database of colleagues, a classified section, server space for document storage, and e-commerce.
+In the United Kingdom, the National electronic Library for Health (NeLH) ( www.nelh.nhs.uk ) is a promising initiative aimed at delivering high quality information to improve patient care in the NHS. 28 The NeLH is a gateway for staff in the NHS to access a variety of resources, primarily concerning evidence based medicine (available in even more detail from www.nettingtheevidence.org.uk ). Whereas only the abstracts of reviews in the Cochrane Library are available to anyone ( www.update-software.com/cochrane/abstract.htm ), the NeLH provides the entire contents of the Cochrane Library. Similarly, access to the entire contents of Clinical Evidence ( www.evidence.org ) and Evidence Based On Call ( www.eboncall.co.uk ) are available through the NeLH. There are links to PubMed ( www.ncbi.nlm.nih.gov/entrez ) and a comprehensive database of guidelines from among other sources the Scottish Intercollegiate Guidelines Network ( www.sign.ac.uk ), the National Institute for Clinical Excellence ( www.nice.org.uk ), and the National Guideline Clearing House ( www.guideline.gov ), based in the United States. If you do not have access to the NeLH, the TRIP database ( www.tripdatabase.com ) provides a free search of the main evidence based resources, peer reviewed journals, guidelines, and e-textbooks on the WWW.
+Journals
+Internet idealists see the WWW as the most revolutionary development in publishing since the printing press. Online repositories for articles, such as BioMed Central ( www.biomedcentral.com ) and PubMed Central ( http://pubmedcentral.nih.gov ), have embraced the ideal of free access for all to the medical literature. 29 PubMed Central provides free access to some print journals already offering their entire contents on line (for example, www.bmj.com ), in addition to the purely electronic journals in BioMed Central (for example, BMC Neurology ). Articles in these reservoirs of knowledge benefit from being indexed in PubMed, published the moment they are accepted, and their copyright is not transferred to the publisher. The site www.freemedicaljournals.com provides a comprehensive list of medical journals, which are free either at the point of publication or after a delay (for example, JNNP has been published on line since 15 March 1999 30 and articles are free one year after print publication).
+There are several other advantages of online publication, such as the speedy dissemination of netprints or preprints (research before, during, or after review by other agencies), 31 WWW based supplements to print articles that are likely to improve the quality of reporting, 32 and preprint servers that may help prevent publication bias. 33 Hypertext links between reference lists from an article in one online journal and the original article in another and from portals directly to the online journal obviate the need for laborious journeys to the library. Online article submission (now available for JNNP ) enables faster peer review and a seamless transition of an article in electronic format from submission to publication, with communication by email. Article citations can be downloaded to reference management software or downloaded as portable document format (PDF) files with Adobe Acrobat ( www.adobe.com/products/acrobat ) for printing, indistinguishable from the paper version of the article. Moreover, because a browser's country of origin is recognisable from its IP address, free full text access can be delivered to resource poor countries. 34
+Lastly, journals' emailed tables of contents (eTOCs) and automatic alerts about articles on particular topics or by particular authors can result in a more time effective way of keeping up to date. Signing up for an eTOC is usually done through an online journal's web site, a subscription to the journal is not usually required, and removing oneself from the list is as easy as signing up. An excellent eTOC service, offered for any journal received by the British Library (whether or not the journal provides an eTOC of its own), is available from Zetoc ( http://zetoc.mimas.ac.uk ), which can be accessed freely via the NeLH.
+Despite the myriad advantages, sceptics view online journals as a threat to the "integrity of the scholarly record of science" 16 and resent the loss of the aesthetic appeal of a paper journal. Publishing houses fear a greater burden for peer review with easier article submission, loss of copyright, and lower revenue from print subscriptions, which are only slightly offset by online subscriptions and pay-per-article fees, themselves jeopardised by unlegislated information sharing technology (such as Napster and Gnutella). Given the spectrum of solutions adopted by medical journals to the pressure to provide access on line and the lack of knowledge about its impact, an e-journal user study is underway ( http://ejust.stanford.edu ).
+e-Textbooks
+FreeBooks4Doctors ( www.freebooks4doctors.com ) is a portal dedicated to indexing textbooks that are freely available on the WWW, whether they are purely electronic or not. At the forefront, eMedicine ( www.emedicine.com ) is a comprehensive, entirely WWW based e-textbook and portal, requiring only registration (and not a paid subscription). Despite the appearance of sponsors and advertising on the web site, authors are independent of the pharmaceutical industry. UpToDate ( www.uptodate.com ) is an independent e-textbook but it requires a subscription. The vast majority of printed medical textbooks with an online version require a subscription, such as Harrison's Online ( www.harrisonsonline.com ), which is an expanded, continually updated, cross referenced version of the 15th edition of Harrison's principles of internal medicine . Other textbooks, such as the Oxford textbook of medicine , are available for purchase only as a CD ROM.
+Research
+In addition to the medical portals that compile evidence based resources and journals for use in routine practice, which are equally applicable to the needs of researchers, national and international repositories of research activity are of particular value. Registries of ongoing and completed studies are important to prevent unnecessary duplication and publication bias, and can provide paradigms for other areas where research is needed. For example, the National Research Register compiles data about research activity in the United Kingdom ( www.update-software.com/National ), while Current Controlled Trials ( www.controlled-trials.com ) and Centerwatch ( www.centerwatch.com ) collate information about randomised controlled trials in particular. Funding resources are even more specific to your country of origin, but the Wisdom database run by the Wellcome Trust is the best starting point in the United Kingdom ( http://wisdom.wellcome.ac.uk ).
+Patients
+Because internet access and usage are rising dramatically and health is one of the main categories of information sought, the provision of high quality patient information is essential. Although some have doubted the importance of this phenomenon, 35 a recent survey found that a quarter of patients with home access to the internet used medical web sites before consultation at a neurology clinic, and this information was inappropriate in 60% of cases. 36 Because misinformation may be harmful due to incorrect self diagnosis, inappropriate treatment discontinuation, or self medication and because of the potential of the internet to encourage suicide, organisations exist to monitor health fraud on the WWW ( www.quackwatch.com ).
+The Health On the Net Foundation ( www.hon.ch ) is a not for profit organisation to guide patients (and medical practitioners) to useful and reliable online health and medical information, guided by their established code of conduct. Possibly the best web sites for providing patients with information about the whole range of medical conditions are www.patient.co.uk , www.healthsites.co.uk , and www.medicdirect.co.uk in the United Kingdom and www.healthfinder.gov in the United States.
+EMAIL
+Professional use
+Email is the most effective way to keep up to date with journals' eTOCs, which are often sent before print publication. Many professional associations' web sites offer similar email alert services to maintain awareness about meetings and newsletters and to provide a simple way to register and submit abstracts for conferences. Email is also being used by journals to speed up the process of peer review using WWW based systems.
+For those less daunted by large scale communication, mailing lists, newsgroups, bulletin boards, web forums, and the notorious chat rooms offer online communities in which peers can exchange news, opinions, and comment. Mailing lists are usually administered by a host institution and use software such as Listserv ( www.lsoft.com ) to circulate emailed contributions to a discussion on a particular topic. Join a list by simply sending an email to the administrative address (the membership of some lists is vetted). Anonymity is maintained unless you wish to contribute and content is usually moderated. A good starting point would be the Medicine and Health category at www.jiscmail.ac.uk . Newsgroups (such as misc.health and sci.med, available via http://groups.google.com ), bulletin boards, and web forums ( www.theabn.org/training ) offer a similar, but web based, means of communication that does not clog your email inbox.
+The online doctor-patient relationship
+As public use of email expands there is considerable potential for the doctor-patient relationship to be electronic. While such email correspondence is not critical to medical practice and unlikely to be a substitute for at least an initial consultation in person, there are conceivable benefits and predictable drawbacks, which still require further research. 37
+As an asynchronous medium, email enables correspondents to respond at their own convenience in a time effective manner, averaging four minutes per email in one study. 38 Email avoids the need to return missed telephone calls. Email is also likely to be cost effective by minimising outpatient attendances, but this has not been evaluated. Email is said to be less intimidating for patients than a face to face encounter and may enable them to discuss sensitive issues more freely, while it enables the doctor to provide a considered, documented response. Of course, email misses the subtleties of communication in person. 38
+There are drawbacks to doctor-patient email but they should be viewed in the context of the medical profession's initial reluctance to adopt the telephone as a means of communication. 39 Doctors are sceptical mainly about the workload that email may generate; time spent on this may be managed by having an email account dedicated to patient correspondence. There are potential legal liability issues and strong arguments for privacy and confidentiality, which require encrypted communication. Furthermore, if email communication about health care becomes commonplace, patients who are not on line may become disenfranchised.
+The American Medical Informatics Association has proposed contractual guidelines for the doctor-patient online interaction. but they apply only to an already established doctor-patient relationship. They do not address unsolicited email, 41 nor what doctors' conduct should be in mailing lists, bulletin boards, chat rooms, and newsgroups involving patients. In all circumstances, it is wise to heed the informal code of conduct, known as netiquette ( www.albion.com/netiquette ), which is largely a reminder to interact as you would in other media but also to respect others' privacy and bandwidth.
+Table 4 Guidelines for email exchange between doctor and patient
+Adapted from the American Medical Informatics Association. 40 Joint responsibilities
+* Establish what the purpose(s) of email exchanges will be
+* Establish the turnaround time expected of both doctor and patient (possibly depending on context)
+* Avoid anger, sarcasm, criticism, and libellous references to third parties
+* Use encryption to protect the privacy of email content
+The doctor's responsibilities
+* Ensure the patient is aware of security and confidentiality issues
+* Obtain the patient's informed consent for the use of email, specifying your terms
+* Protect access to your email inbox and your screensaver with passwords
+* Do not distribute a patient's email to third parties, unless they have agreed to it
+* Use an electronic signature and a header to warn about privacy issues
+* Set up an automatic reply to confirm receipt of patient's email
+* File printouts of all email correspondence in the medical record
+* Back up your email folders weekly
+* Maintain an address book of patients who can be (anonymously) mass mailed in the event of technical problems
+The patient's responsibilities
+* Categorise the email in its subject heading
+* Use identifying information (such as a hospital number) in the body of the email
+* Use an electronic signature
+* Acknowledge receipt of doctor's reply
+INTERNET FUTURES
+The internet will become omnipresent and so transparent that it will be taken for granted as much as electricity is in the developed world. The future aims of internet technology are embodied by the goals of the W3C: to enable universal access, establish a "semantic web" with meaning using machine readable languages, establish enhanced security, avoid software incompatibility, ensure that technologies are evolvable, preserve the distributed decentralised nature of the internet, and encourage more interactivity and richer multimedia.
+The most immediate challenge for the next generation internet ( www.ngi.gov ) is to support increasing demand for both access and greater speed. In the next few years advances in fibre optic technology will hugely increase the capacity of the backbones as they become more extensive, perhaps even to the interplanetary internet ( www.ipnsig.org ). Dialup modem access will soon become a thing of the past as "always on" broader bandwidth alternatives (such as cable, satellite, digital subscriber line, and T1 and T3 networks) pervade the developed world. Wireless data services in the 1-2 Mbps range ( www.wireless.com ) may obviate the need for fixed cabling. The 4.2 billion potential IP addresses are fast running out, heralding the next addressing standard, Ipv6, which will allow a staggering 6 x 10 23 internet addresses per square metre of the Earth's surface, with built in security and automatic address allocation.
+In medicine, it is likely that additional change will be partly driven by patients changing from passive recipients of health care to active consumers, in greater electronic contact with their doctor through email or telemedicine. 14 Optimists believe that increasing consumer and provider involvement will drive an improvement in the quality of health care. 13 The American Medical Informatics Association has already envisaged the future and established three bold goals for 2008: a virtual health care databank, national health care knowledge bases, and a personal clinical health record. 42 But despite the overwhelming urge to develop something because of the ability to do so, the time honoured principles of evidence based medicine are likely to be needed to ensure that future internet developments have a beneficial impact on health care. 27
+CONCLUSION
+The internet has expanded from defence to academic, commercial, and medical institutions, is now global, and is increasingly accessed at home. The greatest threats to our use of the internet will be expensive telecommunications, intellectual property rights, and data protection regulation. 16 Most of all, the expansion of web sites, mailing lists, and discussion forums will make an up to date knowledge of the best resources mandatory, for which this and subsequent review articles serve as a baseline, with updates in the JNNP 's monthly Neuronline section.
+The Association of British Neurologists Website Committee ( www.theabn.org )
+Competing interests: none declared.
+Acknowledgement: RAS was funded by a Medical Research Council clinical training fellowship and GR was funded by the Wellcome Trust.
+References 1 Berners-Lee T . Weaving the web: the original design and ultimate destiny of the world wide web by its inventor . London: Texere Publishing, 1999.
+2 Edejer TT-T . Disseminating health information in developing countries: the role of the internet. BMJ 2000; 321: 797 -800.
+3 Kennedy AJ . The rough guide to the internet . London: Rough Guides Ltd, 2002.
+4 Pallen MJ . Medicine and the internet: dreams, nightmares and reality. Br J Hosp Med 1996; 56: 506 -9.
+5 Pallen M . Introducing the internet. BMJ 1995; 311: 1422 -4.
+6 Pallen M . The world wide web. BMJ 1995; 311: 1552 -6.
+7 Pallen M . Electronic mail. BMJ 1995; 311: 1487 -90.
+8 Pallen M . Logging in, fetching files, reading news. BMJ 1995; 311: 1626 -30.
+9 McKenzie B . Medicine and the internet , 3rd edn. Oxford: Oxford University Press, 2002.
+10 Hafner K , Lyon M. Where wizards stay up late. The origins of the internet . New York: Touchstone, 1996.
+11 Keen J , Wyatt J. Back to basics on NHS networking. BMJ 2000; 321: 875 -8.
+12 Wood FB , Cid VH, Siegel ER. Evaluating internet end-to-end performance: overview of test methodology and results. J Am Med Inform Assoc 1998; 5: 528 -45.
+13 Eysenbach G , Sa ER, Diepgen TL. Shopping around the internet today and tomorrow: towards the millennium of cybermedicine. BMJ 1999; 319: 1294.
+14 Briggs JS , Early GH. Internet developments and their significance for healthcare. Med Inform Internet Med 1999; 24: 149 -64.
+15 Safran C , Goldberg H. Electronic patient records and the impact of the internet. Int J Med Inform 2000; 60: 77 -83.
+16 Lindberg DA , Humphreys BL. Medicine and health on the internet: the good, the bad, and the ugly. JAMA 1998; 280: 1303 -4.
+17 McDonald CJ , Overhage JM, Dexter PR, et al . Canopy computing: using the web in clinical practice. JAMA 1998; 280: 1325 -9.
+18 Berland GK , Elliott MN, Morales LS, et al . Health information on the internet: accessibility, quality, and readability in English and Spanish. JAMA 2001; 285: 2612 -21.
+19 Gagliardi A , Jadad AR. Examination of instruments used to rate quality of health information on the internet: chronicle of a voyage with an unclear destination. BMJ 2002; 324: 569 -73.
+20 Kim P , Eng TR, Deering MJ, et al . Published criteria for evaluating health related web sites: review. BMJ 1999; 318: 647 -9.
+21 Charnock D , Shepperd S, Needham G, et al . DISCERN: an instrument for judging the quality of written consumer health information on treatment choices. J Epidemiol Community Health 1999; 53: 105 -11.
+22 Shepperd S , Charnock D, Gann B. Helping patients access high quality health information. BMJ 1999; 319: 764 -6.
+23 Purcell GP , Wilson P, Delamothe T. The quality of health information on the internet [editorial]. BMJ 2002; 324: 557 -8.
+24 Eysenbach G , Diepgen TL. Towards quality management of medical information on the internet: evaluation, labelling, and filtering of information. BMJ 1998; 317: 1496 -500.
+25 Al-Shahi R . Search engines. Pract Neurol 2001; 1: 60 -1.
+26 Hunt DL , Jaeschke R, McKibbon KA. Users' guides to the medical literature: XXI. Using electronic health information resources in evidence-based practice. Evidence-Based Medicine Working Group. JAMA 2000; 283: 1875 -9.
+27 Jadad AR , Haynes RB, Hunt D, et al . The internet and evidence-based decision-making: a needed synergy for efficient knowledge management in health care. Can Med Assoc J 2000; 162: 362 -5.
+28 Muir Gray JA , de Lusignan S. National electronic Library for Health (NeLH). BMJ 1999; 319: 1476 -9.
+29 Delamothe T , Smith R. PubMed Central: creating an Aladdin's cave of ideas. BMJ 2001; 322: 1 -2.
+30 Kennard C . Same name, new face for JNNP: www.jnnp.com. J Neurol Neurosurg Psychiatry 1999; 66: 415.
+31 Delamothe T , Smith R, Keller MA, et al . Netprints: the next phase in the evolution of biomedical publishing. BMJ 1999; 319: 1515 -6.
+32 Chalmers I , Altman DG. How can medical journals help prevent poor medical research? Some opportunities presented by electronic publishing. Lancet 1999; 353: 490 -3.
+33 Song F , Eastwood A, Gilbody S, et al . The role of electronic journals in reducing publication bias. Med Inform Internet Med 1999; 24: 223 -9.
+34 Kennard C . Getting our journal to developing countries. J Neurol Neurosurg Psychiatry 2001; 71: 711.
+35 Jadad AR , Sigouin C, Cocking L, et al . Internet use among physicians, nurses, and their patients. JAMA 2001; 286: 1451 -2.
+36 Larner AJ . Use of internet medical websites and of NHS Direct by neurology outpatients before consultation [abstract]. J Neurol Neurosurg Psychiatry 2002; 72: 140.
+37 Mandl KD , Kohane IS, Brandt AM. Electronic patient-physician communication: problems and promise. Ann Intern Med 1998; 129: 495 -500.
+38 Borowitz SM , Wyatt JC. The origin, content, and workload of e-mail consultations. JAMA 1998; 280: 1321 -4.
+39 Spielberg AR . On call and online: sociohistorical, legal, and ethical implications of e-mail for the patient-physician relationship. JAMA 1998; 280: 1353 -9.
+40 Kane B , Sands DZ. Guidelines for the clinical use of electronic mail with patients. The AMIA Internet Working Group, Task Force on Guidelines for the Use of Clinic-Patient Electronic Mail. J Am Med Inform Assoc 1998; 5: 104 -11.
+41 Eysenbach G , Diepgen TL. Responses to unsolicited patient e-mail requests for medical advice on the world wide web. JAMA 1998; 280: 1333 -5.
+42 Greenes RA , Lorenzi NM. Audacious goals for health and biomedical informatics in the new millennium. J Am Med Inform Assoc 1998; 5: 395 -400.
+Subject: Digital video; Research & development--R & D; Internet access; Wide area networks; Communication; Health care; Wireless networks; Health informatics; Intellectual property; World Wide Web; Internet service providers; Semantic web; Resource Description Framework-RDF
+Identifier / keyword: JNNP Internet internet computer communication networks
+Title: The internet
+Publication title: Journal of Neurology, Neurosurgery and Psychiatry; London
+Volume: 73
+Issue: 6
+First page: 619
+Publication year: 2002
+Publication date: Dec 2002
+Publisher: BMJ Publishing Group LTD
+Place of publication: London
+Country of publication: United Kingdom, London
+Publication subject: Medical Sciences--Psychiatry And Neurology, Medical Sciences--Surgery
+ISSN: 00223050
+CODEN: JNNPAU
+Source type: Scholarly Journals
+Language of publication: English
+Document type: Review
+DOI: http://dx.doi.org/10.1136/jnnp.73.6.619
+ProQuest document ID: 1781519278
+Document URL: http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/1781519278?accountid=14749
+Copyright: Copyright: 2002 Copyright 2002 Journal of Neurology Neurosurgery and Psychiatry
+Last updated: 2016-04-18
+Database: ProQuest Central
+

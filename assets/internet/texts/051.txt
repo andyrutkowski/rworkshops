@@ -1,0 +1,25 @@
+NEW YORK -- To reach colonists on Mars, you might attach "mars.sol" to the e-mail address. For retrieving images from one of Jupiter's moons, a file transfer from a "europa.sol" site might be in order.
+The space missions making that possible may be years or lifetimes away, but initial steps toward extending the Internet's reach are already in the works.
+The first component, a short-range transceiver, hitched a ride on the Mars Odyssey, which was launched in April and is due to reach the Red Planet in October.
+As envisioned, an internet on Mars could connect various surface landers and orbiting satellites. Additional internets could appear elsewhere, all linked to form a giant Interplanetary Internet.
+And techniques for extending networks into the remote reaches of outer space could ultimately prove useful for extending the current Internet into remote regions on Earth.
+Deploying all the hardware could take decades. But then again, the Internet on Earth has taken 31 years to build, and is still under construction.
+"You have to start somewhere," said Vinton Cerf, an Internet founding father and adviser to the space project. "For many of us, the idea of building an Interplanetary Internet sounds like Fantasyland, but it's straightforward engineering. It's stuff we know how to do."
+Adrian Hooke, the project's manager, said the Interplanetary Internet would expand one component at a time, primarily by hitching rides on spacecraft built for other projects. The concept is still on the drawing boards, though, with no timetable or even a formal commitment at the National Aeronautics and Space Administration. Hooke, who works at NASA's Jet Propulsion Laboratory, expects key scheduling decisions this year.
+NASA now has a Deep Space Network of three radio dishes on Earth scanning for signals from its spacecraft. The Interplanetary Internet would standardize components so that spacecraft could talk to one another, instead of only to Earth.
+Remember the Mars Pathfinder lander and its rover, Sojourner? The rover took more than 500 pictures from the Mars surface and communicated with the lander using customized protocols. But from there, the images went directly to Earth.
+With the Interplanetary Internet's standardized protocols, the lander could have beamed signals to an orbiting satellite from a previous mission. Satellites, which generate more power than surface landers, could then amplify the signal. That ultimately means more pictures with better quality.
+Or take a spacecraft exploring the outer planets. It could pass images and data through satellites along the way. At each stop, the satellite could request retransmissions of any data lost in transit.
+Either way, though, NASA would still have to post images and data to computers on Earth for public viewing. Distances and other resource constraints won't make it practical for space buffs to directly request pages from a Web server on Mars.
+Standards would, however, let NASA reuse its components and share access with other countries, scientists or even commercial space ventures.
+The international Consultative Committee for Space Data Systems already has been working for 20 years to standardize links between satellites and the ground. More than 150 missions worldwide use them. The Interplanetary Internet adds relaying capabilities.
+The radio transceiver now whizzing to Mars at a relative 65,000 mph is intended as the first relay for future landers.
+Initially, the Interplanetary Internet could transmit images and such data as atmospheric and surface conditions. It also could let mission controllers send commands to spacecraft.
+Commercial applications, such as mining asteroids, could follow in decades to come.
+"There's a strong incentive to develop plug-and-play space infrastructure," NASA's Hooke said. "This is funded on public money, so it ought to be opened up to a wider audience."
+It's a similar approach to the Earth's Internet. Begun as a research project, the Internet ultimately grew to include commercial ventures, which came up with new uses.
+Illustration
+DRAWING: Internet beyond Earth SOURCE NASA: HOW STUFF WORKS CARLOS M. GRANADA/ASSOCIATED PRESS
+Word count: 687
+(Copyright 2001 by The Orlando Sentinel)
+

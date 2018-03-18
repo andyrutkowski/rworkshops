@@ -1,0 +1,20 @@
+Internet Users Win a Privacy Battle in Canada's Top Court; Ruling Says Internet Providers Can't Hand Over Private Information Without a Court Order
+
+OTTAWA--Internet users in Canada should expect a reasonable degree of anonymity online, and telecommunications companies cannot hand over their private information to law-enforcement agencies without a court order, Canada's top court ruled Friday.
+The unanimous 8-0 ruling from the Supreme Court of Canada was hailed as a seminal decision by the country's privacy watchdog. But it could have broad implications for how police investigate cases ranging from drug trafficking to terrorism.
+The case began over the means by which police in Saskatchewan obtained information during an investigation into possession of child pornography. The Supreme Court said police in the western province acted unlawfully when they sought and received personal information from an Internet service provider about a suspect without a judge's permission. Those actions violated the Internet user's privacy rights, the court said.
+"Some degree of anonymity is a feature of much Internet activity and depending on the totality of the circumstances, anonymity may be the foundation of a privacy interest that engages constitutional protection against unreasonable search and seizure," the court said in its written decision.
+In the U.S., courts are grappling with what types of data are protected under the Fourth Amendment, which deals with unreasonable search and seizure. In terms of Internet anonymity, most U.S. court decisions have focused on attempts to unmask the identity of anonymous commentators who allegedly issue defamatory remarks in chat rooms.
+Canadian prosecutors had argued that granting the right to interact anonymously on the Internet was incompatible with the public interest of providing citizens security and protection from criminal activity. They said the Internet is being used by criminals to engage in unlawful activity across international borders.
+Canada's newly appointed privacy commissioner, Daniel Therrien, said in a statement he welcomed the ruling because "the Supreme Court recognized that anonymity on the Internet is a critical component of informational privacy."
+He said an individual's record of Internet activity "could, in many cases, be the key to unlocking sensitive details about a user's online activities and is therefore worthy of constitutional protection."
+A representative for Justice Minister Peter MacKay wasn't immediately available for comment. The ruling could pose difficulties for the country's Conservative government as it has legislation before Parliament dealing with cyberbullying that privacy critics contend gives law-enforcement officials broad powers to obtain and track information about citizens' Internet use.
+Mr. Therrien, the privacy watchdog, said Friday's top-court ruling posed "important implications" for the government's cyberbullying legislation, and asked Parliament to "carefully consider" the judgment when it votes on the bill.
+The head of the Canadian Police Association said the decision could impede law-enforcement efforts to stop criminal activity and solve cases, adding it will make it difficult for investigators to get the type of basic information needed for a search-warrant application.
+"It is going to make our work more difficult," said Tom Stamatakis, president of the police group.
+Anil Kapoor, a Toronto-based lawyer who acted for the Canadian Civil Liberties Association in this case, said the ruling was "wonderful" because it helps to define privacy in the Internet age.
+"The court didn't take on the familiar refrain which is to say, 'It's on the Internet so it's public.' Some things on the Internet are not public, and there are some things that you do where you are entitled to privacy protection," Mr. Kapoor said.
+Credit: Paul Vieira
+Word count: 566
+(c) 2014 Dow Jones & Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.
+

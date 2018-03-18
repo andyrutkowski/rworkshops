@@ -1,0 +1,249 @@
+Problematic Internet use and other risky behaviors in college students: An application of problem-behavior theory 
+De Leo, Joseph AnthonyAuthor Information; Wulfert, EdelgardAuthor Information. Psychology of Addictive Behaviors Vol. 27, Iss. 1,  (Mar 2013): 133-141.
+	•	Full text
+	•	Full text - PDF
+	•	Abstract/Details
+	•	References 78
+Hide highlighting
+Abstract
+Translate Abstract
+Given the widespread use of the Internet, researchers have begun to examine the personal and social consequences associated with excessive online involvement. The present study examined college students' problematic Internet use (PIU) behaviors within the framework of Jessor and Jessor's (1977) problem-behavior theory. Its specific aim was to investigate the links between PIU with both internalizing (depression, social anxiety) and externalizing (substance use and other risky behaviors) problems. Relevant variables from the perceived environmental system, the personality system, and the behavioral system were entered in a canonical correlation analysis. The analysis yielded two distinct functions: the first function, titled traditional problem-behavior syndrome, characterized students who are impulsive, hold socially deviant attitudes and show a propensity to use tobacco and illicit drugs. The second function, titled problematic Internet-behavior syndrome, characterized students who are socially anxious, depressed, report conflictive family relations, and show a propensity toward PIU. Thus, PIU did not share the characteristics typically associated with the traditional problem-behavior syndrome consistent with problem-behavior theory, but showed correlates more consistent with internalizing rather than externalizing problems. (PsycINFO Database Record (c) 2016 APA, all rights reserved) (Source: journal abstract)
+More
+Full text
+	•	Translate Full text
+	•	Turn on search term navigation
+
+Contents 
+	•	Abstract
+	•	College Students' Problematic Internet Use (PIU)
+	•	PIU and Problem-Behavior Theory
+	•	Method
+	•	Participants
+	•	Measures
+	•	Data-Analytic Approach
+	•	Procedure
+	•	Results
+	•	Canonical Correlation Analysis of Problem-Behavior Theory
+	•	Discussion
+	•	Traditional Problem-Behavior Syndrome
+	•	Problematic Internet-Behavior Syndrome
+	•	Limitations
+	•	Conclusions and Future Directions
+Show less
+
+Figures and Tables 
+	•	Table 1
+	•	Table 2
+	•	Table 3
+Show less
+ 
+Abstract
+Given the widespread use of the Internet, researchers have begun to examine the personal and social consequences associated with excessive online involvement. The present study examined college students' problematic Internet use (PIU) behaviors within the framework of Jessor and Jessor's (1977) problem-behavior theory. Its specific aim was to investigate the links between PIU with both internalizing (depression, social anxiety) and externalizing (substance use and other risky behaviors) problems. Relevant variables from the perceived environmental system, the personality system, and the behavioral system were entered in a canonical correlation analysis. The analysis yielded two distinct functions: the first function, titled traditional problem-behavior syndrome, characterized students who are impulsive, hold socially deviant attitudes and show a propensity to use tobacco and illicit drugs. The second function, titled problematic Internet-behavior syndrome, characterized students who are socially anxious, depressed, report conflictive family relations, and show a propensity toward PIU. Thus, PIU did not share the characteristics typically associated with the traditional problem-behavior syndrome consistent with problem-behavior theory, but showed correlates more consistent with internalizing rather than externalizing problems.
+ 
+The Internet is an expanding virtual environment of interconnected networks currently comprised of an estimated 2.4 billion users worldwide (Miniwatts Marketing Group, 2012). Since its inception, Internet-related functions have become increasingly integrated into people's daily lives, and with the rapid proliferation of users, evidence has begun to emerge suggesting that Internet use may become problematic for some individuals. Indeed, some investigators caution that as many as nine million Americans may be at risk for developing some form of Internet-related problem (Block, 2007; Young, Pistner, O'Mara, & Buchanan, 1999). As a result, problematic Internet use has recently garnered considerable attention, both in research communities and also by popular media. However, there continues to be a lack of consensus as to its precise definition, with labels varying from Internet Addiction Disorder (Goldberg, 1996) to Internet addiction (e.g., Chou & Hsiao, 2000; Young, 1998), pathological Internet use (e.g., Block, 2007; Morahan-Martin & Schumacher, 2000) and Internet dependency (e.g., Scherer, 1997). For the purpose of this study, the term problematic Internet use(PIU) will be used to refer collectively to the phenomenon under investigation.
+ 
+College Students' Problematic Internet Use (PIU)
+The majority of studies examining PIU have focused on adolescent (e.g., Kaltiala-Heino, Lintonen, & Rimpelä, 2004; Ko et al., 2006; Young & Rogers, 1998) and college student populations (e.g., Anderson, 2001; Chou & Hsiao, 2000; Chou, 2001; Kandell, 1998; Morahan-Martin & Schumacher, 2000; Nalwa & Anand, 2003; Scherer, 1997). Students are particularly well suited for this research, given that young adults aged 18 to 32 comprise a majority of those who are online (Jones & Fox, 2009). Research to date, however, has been almost entirely descriptive in nature, focusing on identifying important correlates of PIU rather than explaining the behavior.
+To illustrate, current research offers some evidence that excessive Internet use in younger adolescents has an adverse impact on daily routines, academic performance, family relations, and mood (e.g., Ko et al., 2006; Lin & Tsai, 2002; Ryu, Choi, Seo, & Nam, 2004; Young & Rogers, 1998). Similarly, studies with college students have also found that “Internet addicts” report greater academic impairment and disruptions of daily routines (Chou, Condron, & Belland, 2005; Widyanto & Griffiths, 2006).
+A number of studies have also demonstrated significant correlations between excessive time spent on the Internet and both psychological and behavioral problems (e.g., Griffiths & Parke, 2002). However, it is worth noting that time alone is not a sufficient indicator of pathological Internet use (Griffiths, 1998; Hansen, 2002); instead, recent studies have begun to examine the function that online behaviors serve for its users. So-called “Internet dependents” spend much of their time engaged in instant communications (e.g., chat rooms) and other interactive applications (e.g., massively multiplayer online gaming) involving participating online users. In contrast, regular users (“nondependents”) rely on the Internet predominantly for personal communication (e.g., e-mail) and information-gathering purposes (e.g., worldwide web searches) (Kandell, 1998). Both types of users may spend similar amounts of time online; however, those who rely on the Internet predominantly to satisfy their social or escape needs may be at greater risk for developing PIU (Weiser, 2001) and may differ in the expression of other problematic behaviors.
+This interpretation is also supported by studies examining the relationship between Internet use and psychological well-being, which have revealed that so-called Internet addicts tend to be lonely (Engelberg & Sjöberg, 2004; Loytsker & Aiello, 1997; Nie & Erbring, 2000; Morahan-Martin & Schumacher, 2000) and to experience higher levels of boredom, social anxiety, self-consciousness (Loytsker & Aiello, 1997; Liu & Kuo, 2007), and depression (Kraut et al., 1998; Young & Rogers, 1998; Morrison & Gore, 2010). These findings suggest that internalizing problems, such as depression or anxiety, may act as risk factors that contribute to the expression of PIU. Depressed or anxious students might use chat rooms to combat loneliness or get involved in multiuser games, assuming altered virtual personalities and the like, to escape painful affect in a manner analogous to individuals who self-medicate against anxiety and mood disorders with substances (Robinson, Sareen, Cox, & Bolton, 2011). In this sense, PIU could be conceptualized as an internalization disorder with manifest behaviors directed at regulating affective or internal states.
+A different approach to understanding PIU has focused on identifying specific personality characteristics, presumably shared by individuals prone to externalizing problems such as addictive disorders. These include sensation seeking, novelty seeking, and impulsivity (Cao, Su, Liu, & Gao, 2007; Ko et al., 2006; Yang, Choe, Baity, Lee, & Cho, 2005). Some researchers (e.g., Whang, Lee, & Chang, 2003; Yang et al., 2005) speculate that these personality characteristics may be symptoms of a general psychological vulnerability associated with alcohol abuse, illicit drug use, gambling, and risky sexual behavior. In this sense, PIU can be viewed as another manifestation of this cluster of externalizing behaviors.
+ 
+PIU and Problem-Behavior Theory
+As the previous review has shown, the literature is replete with studies identifying correlates of PIU, but studies that embed these examined relationships in a theoretical framework are conspicuously absent. The present study was designed to shed light on important contextual and personal factors that might explain, from a conceptual perspective, the pattern of correlates commonly associated with PIU. The guiding framework for this investigation was problem-behavior theory (Jessor & Jessor, 1977; Costa, 2008). Its basic premise is that all behavior is a product of person−environment interactions. Problematic behaviors are those that are undesirable by the standards of conventional society. Particular emphasis is placed on the external context of adolescent and young adult life and the stressors and satisfactions that contribute to the expression of problematic behaviors.
+Addictive behaviors such as alcohol, nicotine, and illicit drug use are common problem behaviors exhibited by adolescents with a psychosocial proneness to behavioral deviance (Lansford et al., 2008). Such proneness is, in turn, influenced by personality characteristics and supported by the individual's perceived social environment. Engaging in any one problem behavior increases the probability of involvement in other problem behaviors because of their common linkages with personality and environmental factors. If PIU is expressed as a problem behavior in a manner consistent with Jessor and Jessor's (1977) theory, then it might be appropriately conceptualized as an externalizing behavior similar to chemical and behavioral addictions. Conversely, as previous research has found PIU to be associated with internalizing problems, such as depression and anxiety (Loytsker & Aiello, 1997; Liu & Kuo, 2007; Morrison & Gore, 2010; Tonioni et al., 2012), PIU may not share the personality and environmental correlates of the “traditional” problem-behavior syndrome. Hence it may not covary with other addictive behaviors.
+To shed light on this question, the current study examined whether PIU is best conceptualized as an externalizing behavior that, by the standards of problem-behavior theory, fits with other behaviors such as drinking, smoking, illicit drug use, gambling, and risky sexual behavior, and shares with these behaviors specific personality and environmental supports. From those correlates of PIU identified in previous studies, we selected a set of variables also consistent with problem-behavior theory. Specifically, we assessed the participants' attitudes toward problem behaviors (tolerance of deviance), person factors (impulsivity, depression, social anxiety, academic achievement), and environmental factors (family and social supports), and their relationship with a set of problem behaviors, including PIU.
+ 
+Method
+ 
+Participants
+College students from introductory psychology classes at a public university in the northeastern United States participated in the study to fulfill a research requirement. Additional students were recruited via fliers distributed throughout the university. The sample consisted of 498 participants (267 women and 231 men) with a mean age of 19.2 years (range 18–26). Participants were predominantly single (95.8%) and Caucasian (63.2%), followed by Asian (13.6%), African American (9.4%), Hispanic (9.0%), and “Other” (4.0%). The majority of participants were freshman (58.6%) followed by sophomores (20.4%), juniors (10.6%), seniors (6.6%), and graduate students (3.6%).
+ 
+Measures
+Participants provided standard demographic data, including gender, age, race/ethnicity, marital status, and year in school.
+Problematic Internet use (PIU) was measured with the Chinese Internet Addiction Scale (CIAS; Chen, Weng, Su, Wu, & Yang, 2003). In a pilot study, the CIAS correlated highly (p = .72) with the Internet Addiction Test (IAT; Young, 1998), and we found it preferable to use the CIAS because it has been used in studies investigating the relationship between PIU and addictive behaviors, such as substance use (Ko et al., 2006; Yen et al., 2008). It includes questions assessing facets consistent with current conceptualizations of PIU as a potentially addictive behavior, including compulsion (e.g., “It is difficult for me to resist the urge to go back online even after logging off to complete other important tasks”), withdrawal (e.g., “I feel restless, moody, depressed, or irritable when I attempt to cut down, control or stop using the Internet”), and tolerance (e.g., “I often stay online longer than I originally intended”). The CIAS consists of 26 items, scored on a 4-point Likert scale (1 = Very uncharacteristic, 2 = Somewhat uncharacteristic, 3 = Somewhat characteristic, 4 = Very characteristic), with higher scores indicating greater severity of Internet addiction. It has appropriate psychometric qualities with internal consistencies (Cronbach's alpha) in the range of 0.79 to 0.93 for the full instrument and its subscales (Chen et al., 2003). In the current sample, the internal consistency was α = .94.
+Unconventional or so-called risky behaviors were measured with items adapted from the Core Alcohol and Drug Survey (Presley, Meilman, & Lyerla, 1994). Participants indicated on a 7-point scale (0 = Did not use, 1 = Once a year or less, 2 = About six times a year, 3 = Once a month or less, 4 = Two to three times a month, 5 = Once or twice a week, 6 = Five times a week or more) their frequency of tobacco, alcohol, marijuana, prescription and other illicit drug use, online and casino gambling, and risky sexual behavior (i.e., unprotected behavior that can lead to an unintended pregnancy or a sexually transmitted disease) over the past year. Given the relatively low frequency of these behaviors in this sample, marijuana and prescription and other illicit drug use were combined into a “Drug Use” variable; similarly, online and casino gambling were combined into a “Gambling Behavior” variable.
+Two conventional values were selected as relevant contextual factors thought to operate both directly and indirectly as protective factors on the expression of problematic behaviors. The first was academic performance as measured by participants reported cumulative Grade Point Average (GPA), which served as a proxy of academic achievement. A study conducted by Choi (2007) found that academic performance equally predicted fewer problematic behavior, such as delinquency, risky sexual behavior, smoking, and alcohol and substance use, in a cross-ethnic analysis for youth of all race and ethnicities. Participants in the current sample reported a mean GPA of 3.11 (SD = 0.52, range 1.0 to 4.0).
+The second protective factor was attitudinal intolerance of deviance (AID; Jessor, 1987), assessed using a 10-item scale that is scored on a 4-point Likert scale (0 = Not wrong to 3 = Very wrong). The scale measures attitudes toward deviant behaviors such as theft, physical aggression, and lying (e.g., “How wrong is it to lie to a teacher to cover up something you did?”), and has established strong internal consistency (Cronbach's alpha = .90; Jessor, 1987). Jessor, Costa, Krueger, and Turbin (2006) identified that social controls against problem behaviors, such as friends' disproval, acted as a significant protective factor against college student binge drinking. Internal consistency in the present sample was found to be an acceptable level at α = .81.
+Among possible risk factors that might increase an individual's proneness to problematic behaviors, three person-related variables were assessed. The first variable measured social anxiety using the Social Interaction Anxiety Scale (SIAS; Mattick & Clarke, 1998). The SIAS assesses fears of social interaction situations (e.g., “I find myself worrying that I won't know what to say in social situations”) and consists of 20 items scored on a 5-point Likert scale (0 = Not at all to 4 = Extremely). Excellent internal consistency has been established (Cronbach's alpha ≥ .90; Mattick & Clarke, 1998; Olivares, García-López, & Hidalgo, 2001), and the internal consistency for the full-scale measure of “social interaction anxiety” for the present sample was α = .86. The second person-related variable was impulsivity assessed with the Eysenck I7 Questionnaire (I7; Eysenck & Eysenck, 1985; Eysenck, 1991). The I7 consists of 54 yes/no items that measure impulsivity, venturesomeness, and empathy. For the purpose of the present study, only the impulsivity subscale was used as a specific measure of decision making without an awareness of risk. Elevated scores on this subscale have been shown to be associated with addictive behaviors, such as alcohol and drug abuse as well as pathological gambling (McCown, 1988; Kennedy & Grubin, 1990; Petry, 2001; Vangsness, Bry, & LaBouvie, 2005). This widely used scale has well-established psychometric properties including strong internal consistency (Cronbach's alpha = Impulsiveness, 0.84 males, 0.83 females; Eysenck, Pearson, Easting, & Allsopp, 1985). The internal consistency of the impulsivity subscale for the present sample was α = .76. A third person-related variable assessed was the Profile of Mood States–Short Form (POMS-SF) by Shacham (1983). This 37-item self-report questionnaire measures six mood states using a 5-point Likert scale (0 = Not at all, 1 = A little, 2 = Moderately, 3 = Quite a bit, 5 = Extremely). Participants respond to the question, “How do you feel right now?” and indicate their various mood states (e.g., Unhappy, Angry). For the purpose of this study, only the 8-item depression subscale (POMS-D) was used, given previous studies suggesting a link between depression and PIU (e.g., Morrison & Gore, 2010). The POMS-D has good internal consistency (Cronbach's alpha > .90; Shacham, 1983) and good convergent validity with the Beck Depression Inventory-II (r = .61), and therefore was selected as a useful shorter alternative (Griffith et al., 2005). The internal consistency of the POMS-D in the present sample was α = .92.
+Three additional contextual measures were used to assess the participants' social support systems. They included two subscales from the Family Environment Scale (FES), a 90-item true/false response format measure of the social and environmental characteristics of families developed by Moos and Moos (1986). The first subscale measured family conflict, that is the amount of openly expressed anger and conflict among family members (e.g., “Family members often criticize each other”) and the second assessed moral-religious emphasis, that is the importance placed on ethical and religious issues and values by the family (e.g., “Family members have strict ideas about what is right or wrong”). These subscales were chosen because of their known relation to addictive behaviors (Choo & Shek, 2013; Johnson & Pandina, 1991; Nelson, Hughes, Handel, Katz, & Searight, 1993; Piko & Fitzpatrick, 2004; Webb & Baer, 1995; Wills, Gibbons, Gerrard, Murry, & Brody, 2003). The FES manual reports internal consistency estimates ranging from α = .61 to 0.78 (Moos & Moos, 1986). In the current sample, the internal consistencies of these two subscales were α = .74 (family conflict) and α = .65 (family morals). The Multidimensional Scale of Perceived Social Support (MSPSS; Zimet, Dahlem, Zimet, & Farley, 1988) served as the third measure of participants' social system. The MSPSS consists of 12 items, scored on 7-point Likert scales (1 = Very strongly disagree to 7 = Very strongly agree). The instrument has three subscales measuring perceived support from family, friends, and significant others (e.g., “There is a special person who is around when I am in need”). Social support is regarded as an effective buffer during periods of stress and negative life events. For example, research has shown that college students with lower social support were more likely to engage in drinking after a negative event than were peers with elevated social support (Hussong, Hicks, Levy, & Curran, 2001). Internal consistencies range from α = .84 to 0.92 for the full instrument and subscales (Zimet, Powell, Farley, Werkman, & Berkoff, 1990). The total score was used for the purpose of this study as a general measure of perceived social support; its internal consistency was α = .93.
+ 
+Data-Analytic Approach
+The data were analyzed using canonical correlation analysis (CCA; McKeon, 1966). CCA is the generalized version of bivariate correlation and finds linear combinations among two sets of variables that have maximum correlation with each other. For the present study, CCA was deemed suitable for examining the relationships between the selected cluster of problem behaviors and a set of personal and environmental characteristics that presumably serves as the context for these behaviors. An advantage of using CCA is that it limits the probability of committing Type I errors, such as when conducting a series of multiple regression analyses. Further, CCA more appropriately reflects the complexity of the research question under examination because the set of selected variables represent a concept, namely problem-behavior syndrome, as it is conceptualized by Jessor and Jessor's problem-behavior theory. It would raise conceptual questions if each behavior were examined in isolation from all others given their shared expression.
+Another characteristic of CCA is that it identifies unique orthogonal canonical functions. This allows the researcher to establish whether a set of particular contextual variables relates to individual or clusters of problem behaviors. In the present context, this method was particularly suitable because it enables the researcher to test whether PIU clusters with other externalizing problem behaviors or instead correlates uniquely with a set of contextual variables better characterized by internalizing problems. The bivariate correlations for each problem behavior are presented in Table 1, and the correlations between the examined problem behaviors and the contextual predictor variables are shown in Table 2.
+ 
+ 
+Procedure
+The university's institutional review board approved the study. All participants provided informed consent before completing a battery of confidential web-based questionnaires that were administered in group sessions of 45 minutes in duration to approximately 14 students at a time. Respondents recruited from the introductory psychology classes received course credit for participating. All participants were entered in a drawing for a chance to win a money prize of $100 dollars.
+ 
+Results
+Of 509 cases, 11 were deleted because of substantial missing values, resulting in a sample of 498 usable cases. No multivariate outliers based on Mahalanobis distance were found. Variables were normally distributed, except for several low-frequency risky behaviors involving substance use and gambling. Therefore, a composite index labeled drug use was derived by summing scores across marijuana, prescription drug and other illicit drug use; similarly, an index of gambling behavior was derived by summing casino and online gambling. These computed composite scores led to significant improvements in variability and showed satisfactory distributions.
+ 
+Canonical Correlation Analysis of Problem-Behavior Theory
+The relationship between the set of problem behaviors including PIU and the set of personal and environmental factors was examined using CCA. The full CCA analysis yielded six orthogonal functions with squared canonical correlation coefficients (R c 2  ) of .330, .235, .080, .045, .038, and .001, for each successive function. These squared canonical correlation coefficients, also referred to as canonical roots, provide an estimate of the amount of shared variance between the respective canonical variates. The full model, represented by all six functions, was statistically significant [Wilks' λ = .433, F(48, 1032.43) = 3.99, p < .001] with an effect size of 1 – λ = .567, thus explaining 57% of the total shared variance between the canonical variates.
+The dimension reduction analysis permits testing the hierarchical arrangement of functions for statistical significance. As Wilks' λ provides a test of the first canonical function included in the full model and this function was significant at p < .001, explaining 33% of the shared variance between the two sets of variables or canonical variates. The second function was also statistically significant [F(35, 885.82) = 2.77, p < .001], and explained 23.5% of the shared variance. The third function with marginal significance [F(24, 585.64) = 1.52, p = .052] only explained 8% of the shared variance and was not considered for interpretation. The shared variance explained by the remaining three functions (4.5%, 3.8% and 0%, respectively) was negligible for analytical and interpretive purposes.
+Table 3 presents the standardized canonical correlation coefficients (Std. Coeff.) and canonical structure correlation coefficients (r s) for Functions 1 and 2. The squared canonical structure coefficients (r s 2 ) are also given as well as the communalities (h 2  ) across the two functions for each variable. Structure coefficients are simple linear correlations between the independent variables and their respective canonical variates. They can be interpreted like factor loadings and are also known as canonical loadings. Each independent variable has different canonical loadings for each canonical function.
+ Enlarge this image.
+Canonical Solution for Contextual Variables Predicting Problem Behaviors for Functions 1 and 2 
+Based on the structure coefficients for Function 1, tobacco use (0.74), risky sexual behavior (0.71), drug use (0.70), alcohol use (0.63), and gambling behavior (0.55) were the criterion variables that loaded highly on the first canonical function (cutoff coefficient ≥0.45, underlined in Table 3). All variables in this function were positively correlated with the examined behaviors. PIU did not contribute substantially to this function as noted by the structure coefficient, with a correspondingly low standardized coefficient (0.07). Standardized coefficients revealed that tobacco (0.45) and illicit drug use (0.35) primarily contributed to this function, with gambling (0.22) and risky sexual behavior (0.26) making weaker contributions. Alcohol use had a low standardized coefficient (0.17) and moderate structure coefficient (0.63), suggesting that one or more of the other correlated predictor variables accounted for shared explanatory variability assigned to alcohol as a predictor in the current model tested (Courville & Thompson, 2001).
+Regarding the predictor variable set in Function 1, personality variables found to load highly on this function were attitudinal intolerance of deviance (r s = −0.82, Std. Coeff. = −.62) and impulsivity (r s = 0.70, Std. Coeff. = 0.45), as supported by both structure and standardized coefficients. Thus, the first canonical function indicates that tobacco and illicit drug use are primarily associated with attitudinal tolerance of deviance and impulsivity. The observed relations between the canonical correlations are generally supportive of the theoretically expected relation between the cluster of externalizing problem behaviors and associated contextual factors suggested by Jessor and Jessor's problem-behavior theory. For this reason, the first canonical function was labeled traditional problem-behavior syndrome.
+For the second canonical function, only PIU (r s = 0.89, Std. Coeff. = 0.90) loaded highly, with standardized coefficients of the remaining behavior problems not contributing in a meaningful way to this function. For this reason, this function was labeled problematic Internet-behavior syndrome. Based on the reported structure coefficients, internalizing behavior problems including social interaction anxiety (0.78), depression (0.76), and reported family conflict (0.45) were contextual (predictor) variables that loaded highly on this function. Standardized coefficients provided additional support for the relative importance of these variables, given their primary contribution to the canonical function. Thus, consistent with prior research, the second canonical function in the tested problem behavior model indicates that PIU is primarily associated with internalizing behavior problems, such as social interaction anxiety and depression, as well as reported family conflict.
+To summarize, the canonical correlation analysis yielded two significant functions. The first function suggests that those who manifest externalizing behavior problems such as using tobacco and illegal drugs, and possibly gambling and risky sexual behavior, also tend to be more impulsive, show greater attitudinal tolerance of deviance and place less value on academic achievement. A second canonical function indicated that problematic Internet users tend to show greater social anxiety, depression, and family conflict, but do not seem to be more impulsive or hold more socially deviant attitudes.
+ 
+Discussion
+ 
+Traditional Problem-Behavior Syndrome
+Consistent with the tenets of problem-behavior theory, college students who scored higher on impulsivity and endorsed more socially deviant attitudes also had lower academic performance and displayed a greater tendency toward engaging in externalizing behavior problems, such as illicit drug use, smoking, and to a lesser extent gambling and risky sex. These findings replicate those of other studies (Donovan, Jessor, & Costa, 1991; Wickwire et al., 2008), as well as support the conceptual utility of problem-behavior theory in this sample. Contrary to other research, however, alcohol use was not identified as part of this cluster of problem behaviors in the current analysis. One possible reason may be that the alcohol use variable did not achieve significance due to shared variance with other problem behaviors (e.g., illicit drug use) included in the canonical correlation analysis (Dierker et al., 2006). Another possibility may stem in part from the ubiquity of alcohol use among college students. In the present study, we unfortunately only examined the frequency of alcohol use. Given that most college students report drinking regularly, especially on weekends, frequency by itself may not be indicative of a problem behavior. A better measure would have been the amount of alcohol consumed per occasion. We therefore recommend that future studies include a quantity measure, a quantity-frequency index, or a measure of binge drinking.
+ 
+Problematic Internet-Behavior Syndrome
+The primary aim of the current study was to help clarify the conceptual ambiguity of constructs relating to PIU in the literature. Using a robust statistical approach and a well-established theoretical framework, the authors were able to examine the relations between PIU and both internalizing and externalizing behaviors. Results from a canonical correlational analysis revealed an association between PIU and internalizing problems; namely, those who experience social interaction anxiety, depression, as well as family conflict show a greater propensity for PIU. This finding is consistent with research suggesting a link between PIU and depression (e.g., Morrison & Gore, 2010) as well as anxiety (Loytsker & Aiello, 1997; Liu & Kuo, 2007). Contrary to our assumptions, however, PIU was not part of the cluster of externalizing behaviors subsumed by problem-behavior theory. Students who scored higher on the measure of problematic involvement with the Internet did not manifest more of those characteristics correlated with traditional problem behaviors: they were not more impulsive and did not endorse more antisocial attitudes or show lower academic performance.
+A possible explanation for this finding is that for socially anxious individuals, the Internet provides a means of engaging in social communication without the accompanying anxieties that might otherwise result from more intimate face-to-face interactions. In this sense, use of the Internet may serve as an effective tool that helps individuals cope with fears associated with social interactions. They may come to overly rely on online applications, such as interactive social networking sites, to manage feelings of isolation as well as stimulate their need for social connection (Weiser, 2001). However, in light of current findings, it is important to consider the potential benefits of online-facilitated interactions when evaluating along with the possible risks related to PIU. For instance, excessive use of the Internet may become particularly problematic, especially for those who are socially anxious or withdrawn, when preferences for online activities begin to interfere with other “offline” activities or personal responsibilities.
+Perhaps for adolescents who experience significant life stressors, such as family conflict, and who may also be predisposed to anxiety or depression, the Internet may come to represent a preferred virtual environment as it affords a greater sense of security through perceived anonymity, control, and self-efficacy (Young, 1999). With an abundance of online activities designed to cater to users' endless interests and curiosities, some may find themselves investing increasing amounts of time in self-selected and artificial environments (i.e., tolerance) as a way of avoiding the challenges and demands of social situations or stressful conditions. Griffiths (2000)offers support for this notion by suggesting that the Internet might provide an alternative reality for users who enjoy the sense of immersion and anonymity experienced while online. Some may favor “life online” because it fulfills important needs while, at the same time, effectively blunting the mundane concerns of everyday “life offline.” In addition to offered rewards, online activities may also negatively reinforce individuals by alleviating psychological distress or providing distraction from pain. The present study supports this notion and suggests that individuals experiencing mood disruptions or interpersonal conflict may be at greater risk of developing PIU, which may uniquely contribute to problematic behaviors despite associated negative consequences.
+ 
+Limitations
+The findings should be considered in light of several limitations. First, the findings are based on self-report questionnaires. It is possible that some participants misunderstood questions or underreported socially undesirable behaviors. We attempted to encourage honest responding by gathering the information online, ensuring confidentiality and anonymity by limiting the collection of personal identifiers. But these measures do not preclude that at least some of the answers were affected by deliberate or accidental distortions.
+Another limitation is that the data were collected at one point in time, providing only a snapshot of contextual correlates for each of the problem behaviors examined. Therefore this study is unable to determine the development of specific risky behaviors over time. The findings nevertheless contribute to our understanding of relevant correlates of the examined problem behaviors, including PIU, as well as build on findings from previous research.
+A third limitation is that the sample was neither random nor stratified; thus, findings may not generalize to other college student populations. It is important to note, however, that researchers have identified college students as a particularly relevant target sample not only for investigating PIU (e.g., Kandell, 1998) but also many of the other problem behaviors that were examined in the present study. For this reason, findings from this and other studies will collectively contribute to a better understanding of possible risk and protective factors associated with specific problem behaviors expressed by adolescent and college student populations.
+ 
+Conclusions and Future Directions
+Consistent with previous research, the current analysis captured relevant correlates of PIU as sharing links with internalizing behavioral problems, such as depression and social interaction anxiety. The current study did not identify PIU as part of the cluster of externalizing behaviors that have typically been subsumed by problem behavior theory. It also was not associated with personality characteristics such as impulsivity and attitudinal tolerance of deviance, which are hallmark characteristics of the “traditional” problem behaviors (e.g., tobacco, illicit drug use). These findings emphasize the need for further research that is directed at clarifying the conceptual status of PIU, particularly in light of the fact that the literature currently regards PIU as an impulse control problem (Shapira et al., 2003) or addictive behavior.
+Future studies should examine the particular functions that online behaviors serve for individual users and likewise identify what adaptive functions are impaired by excessive involvement in specific Internet activities. While it is clear that problem behaviors typically occur within certain environmental contexts and are associated with specific personal variables, considerable research is needed in order to identify what factors make some individuals vulnerable to excessive or problematic Internet use and others not. Based on the current research, the authors propose that definitions of “problematic behaviors” future extend to both online and offline individual-factors (e.g., motivational) contextual considerations. As such, further research should continue to focus on the intersection between how individuals' effectively regulate and manage both their online and offline experiences. While problem-behavior theory may not be the most suitable conceptual framework for understanding PIU, future research should nevertheless be guided by theory.
+Efforts have already been made to explain PIU using a cognitive–behavioral perspective. Davis (2001) offered a cognitive–behavioral theory of PIU, which asserts that PIU arises from a unique pattern of Internet-related cognitions and behaviors. However, it is important to further develop an understanding of relevant distal factors that are associated with PIU, which might act to influence the relative salience of the Internet as a reinforcing agent in the environment. Future research might include those factors outlined in the current study, specifically the relation of PIU to family conflict, social interaction anxiety, and depression. Also, a better grasp of more proximal factors is needed, such as identifying cognitive distortions that accompany pathological Internet behavior and those linked with motivational states that provoke problematic use (e.g., “I am worthless offline, but online I am someone”; Davis, 2001). It is critical, however, that working conceptualizations of PIU emphasize an open and flexible framework that is capable of accommodating rapid changes in Internetfunctionality. The integration of new research findings with those of existing studies is best accomplished within a solid conceptual framework that is sensitive to the current expression of PIU and its impact on the end user.
+ 
+
+
+References 
+
+1. Anderson, K. J.  (2001). Journal of American College Health. 
+2. Block, J. J.  (2007). CNS Spectrums. 
+3. Cao, F.,  Su, L.,  Liu, T., &  Gao, X.  (2007). European Psychiatry. 
+4. Chen, S. H.,  Weng, L. C.,  Su, Y. J.,  Wu, H. M., &  Yang, P. F.  (2003). Chinese Journal of Psychology. 
+5. Choi, Y.  (2007). Journal of Youth and Adolescence. 
+6. Choo, H., &  Shek, D.  (2013). Social Indicators Research. 
+7. Chou, C.  (2001). CyberPsychology & Behavior. 
+8. Chou, C.,  Condron, L., &  Belland, J.  (2005). Educational Psychology Review. 
+9. Chou, C., &  Hsiao, M.  (2000). Computers and Education. 
+10. Costa, F.  (2008). Problem-behavior theory−A brief overview. 
+11. Courville, T., &  Thompson, B.  (2001). Educational and Psychological Measurement. 
+12. Davis, R. A.  (2001). Computer in Human Behavior. 
+13. Dierker, L.,  Lloyd-Richardson, E.,  Stolar, M.,  Flay, B.,  Tiffany, S., &  Collins, L.  (2006). Drug and Alcohol Dependence. 
+14. Donovan, J. E.,  Jessor, R., &  Costa, F. M.  (1991). Health Psychology. 
+15. Engelberg, E., &  Sjöberg, L.  (2004). CyberPsychology & Behavior. 
+16. Eysenck, H. J.  (1991). Personality and Individual Differences. 
+17. Eysenck, H. J., &  Eysenck, M. W.  (1985). Personality and individual differences: A natural science approach. New York, NY: Plenum. 
+18. Eysenck, S. B. G.,  Pearson, P. R.,  Easting, G., &  Allsopp, J. F.  (1985). Personality and Individual Differences. 
+19. Goldberg, I.  (1996). Internet addictive disorder (IAD). 
+20. Griffith, N. M.,  Szaflarski, J. P.,  Szaflarski, M.,  Kent, G. P.,  Schefft, B. K.,  Howe, S. R., &  Privitera, M. D.  (2005). Epilepsy & Behavior. 
+21. Griffiths, M. D., &  Gackenbach, J.  (Ed.) (1998). Psychology and the Internet: Intrapersonal, interpersonal, and transpersonal implications. New York, NY: Academic Press. 
+22. Griffiths, M. D.  (2000). CyberPsychology & Behavior. 
+23. Griffiths, M. D., &  Parke, J.  (2002). Social Science Computer Review. 
+24. Hansen, S.  (2002). Journal of Computer Assisted Learning. 
+25. Hussong, A. M.,  Hicks, R. A.,  Levy, S. A., &  Curran, P. J.  (2001). Journal of Abnormal Psychology. 
+26. Jessor, R.  (1987). British Journal of Addiction. 
+27. Jessor, R.,  Costa, F. M.,  Krueger, P. M., &  Turbin, M. S.  (2006). Journal of Studies on Alcohol. 
+28. Jessor, R., &  Jessor, S. L.  (1977). Problem behavior and psychosocial development: A longitudinal study of youth. New York, NY: Academic Press. 
+29. Johnson, V., &  Pandina, R.  (1991). The American Journal of Drug and Alcohol Abuse. 
+30. Jones, S., &  Fox, S.  (2009). Generations online in 2009. 
+31. Kaltiala-Heino, R.,  Lintonen, T., &  Rimpelä, A.  (2004). Addiction Research & Theory. 
+32. Kandell, J. J.  (1998). CyberPsychology & Behavior. 
+33. Kennedy, H. G., &  Grubin, D. H.  (1990). British Journal of Addiction. 
+34. Ko, C. H.,  Yen, J. Y.,  Chen, C. C.,  Chen, S. H.,  Wu, K., &  Yen, C. F.  (2006). Canadian Journal of Psychiatry/Revue Canadienne de Psychiatrie. 
+35. Kraut, R.,  Patterson, M.,  Lundmark, V.,  Kiesler, S.,  Mukopadhyay, T., &  Scherlis, W.  (1998). American Psychologist. 
+36. Lansford, J. E.,  Erath, S.,  Yo, T.,  Pettit, G. S.,  Dodge, K. A., &  Bates, J. E.  (2008). Journal of Child Psychology and Psychiatry. 
+37. Lin, S. S. J., &  Tsai, C. C.  (2002). Computers in Human Behavior. 
+38. Liu, C.-Y., &  Kuo, F.-Y.  (2007). CyberPsychology & Behavior. 
+39. Loytsker, J., &  Aiello, J. R.  (1997). Internet addiction and its personality correlates. 
+40. Mattick, R. P., &  Clarke, J. C.  (1998). Behaviour Research and Therapy. 
+41. McCown, W. G.  (1988). British Journal of Addiction. 
+42. McKeon, J. J.  (1966). Canonical analysis: Some relations between canonical correlation, factor analysis, discriminant function analysis, and scaling theory (Psychometric Monograph 13). Richmond, VA: Psychometric Society. 
+43.  (2012). Internet world stats: Usage and population statistics. 
+44. Moos, H., &  Moos, S.  (1986). Family Environment Scale manual. Palo Alto, CA: Consulting Press Inc. 
+45. Morahan-Martin, J., &  Schumacher, P.  (2000). Computers in Human Behavior. 
+46. Morrison, C. M., &  Gore, H.  (2010). Psychopathology. 
+47. Nalwa, K., &  Anand, A. P.  (2003). CyberPsychology & Behavior. 
+48. Nelson, W. L.,  Hughes, H. M.,  Handal, P.,  Katz, B., &  Searight, H. R.  (1993). Adolescence. 
+49. Nie, N., &  Erbring, L.  (2000). Public Perspective. 
+50. Olivares, J.,  García-López, L. G., &  Hidalgo, M. D.  (2001). Journal of Psychoeducational Assessment. 
+51. Petry, N. M.  (2001). Drug and Alcohol Dependence. 
+52. Piko, B. F., &  Fitzpatrick, K. M.  (2004). Addictive Behaviors. 
+53. Presley, C. A.,  Meilman, P. W., &  Lyerla, R.  (1994). Journal of American College Health. 
+54. Robinson, J.,  Sareen, J.,  Cox, B. J., &  Bolton, J. M.  (2011). Archives of General Psychiatry. 
+55. Ryu, E. J.,  Choi, K. S.,  Seo, J. S., &  Nam, B. W.  (2004). Taehan Kanho Hakhoe Chi. 
+56. Scherer, K.  (1997). Journal of College Student Development. 
+57. Shacham, S.  (1983). Journal of Personality Assessment. 
+58. Shapira, N. A.,  Lessig, M. C.,  Goldsmith, T. D.,  Szabo, S. T.,  Lazoritz, M.,  Gold, M. S., &  Stein, D. J.  (2003). Depression and Anxiety. 
+59. Tonioni, F.,  D'Alessandris, L.,  Lai, C.,  Martinelli, D.,  Corvino, S.,  Vasale, M., &  Bria, P.  (2012). General Hospital Psychiatry. 
+60. Vangsness, L.,  Bry, B. H., &  LaBouvie, E. W.  (2005). Addictive Behaviors. 
+61. Webb, J. A., &  Baer, P. E.  (1995). Addictive Behaviors. 
+62. Weiser, E. B.  (2001). CyberPsychology & Behavior. 
+63. Whang, L. S.,  Lee, S., &  Chang, G.  (2003). CyberPsychology & Behavior. 
+64. Wickwire, E. M.,  Whelan, J. P.,  Meyers, A.,  McCausland, C.,  Luellen, J., &  Studaway, A.  (2008). Journal of College Student Development. 
+65. Widyanto, L., &  Griffiths, M.  (2006). International Journal of Mental Health and Addiction. 
+66. Wills, T. A.,  Gibbons, F. X.,  Gerrard, M.,  Murry, V. M., &  Brody, G. H.  (2003). Psychology of Addictive Behaviors. 
+67. Yang, C. K.,  Choe, B. M.,  Baity, M.,  Lee, J. H., &  Cho, J. S.  (2005). Canadian Journal of Psychiatry/Revue Canadienne de Psychiatrie. 
+68. Yen, J.-Y.,  Ko, C.-H.,  Yen, C.-F.,  Chen, S.-H.,  Chung, W.-L., &  Chen, C.-C.  (2008). Psychiatry and Clinical Neurosciences. 
+69. Young, K.,  Pistner, M.,  O'Mara, J., &  Buchanan, J.  (1999). CyberPsychology & Behavior. 
+70. Young, K. S.  (1998). CyberPsychology & Behavior. 
+71. Young, K. S.,  Vande-Creek, L., &  Jackson, T.  (Eds.) (1999). Innovations in clinical practice: A source book. Sarasota, FL: Professional Resource Press. 
+72. Young, K. S., &  Rogers, R. C.  (1998). CyberPsychololgy & Behavior. 
+73. Zimet, G. D.,  Dahlem, N. W.,  Zimet, S. G., &  Farley, G. K.  (1988). Journal of Personality Assessment. 
+74. Zimet, G. D.,  Powell, S. S.,  Farley, G. K.,  Werkman, S., &  Berkoff, K. A.  (1990). Journal of Personality Assessment. 
+Show less
+
+
+Address for Correspondence: 
+Joseph Anthony De Leo, University at Albany, SUNY, Department of Psychology, Social Sciences 399, 1400 Washington Avenue, Albany, NY 12222
+Email:  jd798667@albany.edu
+
+© 2012, American Psychological Association
+Search ProQuest...Search button
+Download PDF
+Cite
+Email
+Print
+Save
+Add to Selected items
+
+USC Libraries
+	•	Cited by (34)
+	•	Documents with shared references (16115)
+Related items
+	•	THE EFFECTS OF PARENTAL MONITORING AND LEISURE BOREDOM ON ADOLESCENTS' INTERNET ADDICTION
+	•	Lin, Chien-Hsin; Lin, Shong-Lin; Wu, Chin-Pi. Adolescence; Roslyn Heights Vol. 44, Iss. 176,  (Winter 2009): 993-1004.
+	•	Academic stress and Internet addiction from general strain theory framework 
+	•	Jun, Sangmin; Choi, Eunsil.Computers in Human Behavior Vol. 49,  (Aug 2015): 282-287.
+	•	Problematic Internet use among college students: An exploratory survey research study
+	•	Lee, Sokho. ProQuest, Ann Arbor MI, 0, 2011. AAI3439312. 
+	•	The relationship between impulsivity and internet addiction in Chinese college students: A moderated mediation analysis of meaning in life and self-esteem 
+	•	Zhang, Ying; Mei, Songli; Li, Li; Chai, Jingxin; Li, Jiaomeng; et al.PLoS ONE Vol. 10, Iss. 7,  (Jul 14, 2015).
+	•	Parent marital conflict and Internet addiction among Chinese college students: The mediating role of father-child, mother-child, and peer attachment 
+	•	Yang, Xiaojun; Zhu, Lei; Chen, Qin; Song, Pingping; Wang, Zhenhong.Computers in Human Behavior Vol. 59,  (Jun 2016): 221-229.
+Show more related items
+Search with indexing terms
+	•	Subject
+	•	Externalization 
+	•	Internalization 
+	•	Internet Addiction 
+	•	Risk Factors 
+	•	Internet Usage 
+	•	College Students
+	•	Location
+	•	US
+Search
+Ebook Central e-books
+1.
+Internet Under Crisis Conditions : Learning from September 11
+2.
+Signposts in Cyberspace : The Domain Name System and Internet Navigation
+3.
+Internet Addiction
+
+ 
+Altmetric
+	•	
+	•	See more details
+	•	Tweeted by 2
+	•	Mentioned by 1 peer review sites
+	•	52 readers on Mendeley 
+Back to top
+

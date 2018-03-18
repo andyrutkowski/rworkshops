@@ -1,0 +1,38 @@
+Decreased Privacy and Social Interactions    
+
+Hackers Aren't Only Threat to Privacy
+Worthen, Ben. Wall Street Journal, Eastern edition; New York, N.Y. [New York, N.Y]23 June 2010: B.5.
+
+	•	Full text
+	•	Abstract/Details
+Abstract
+TranslateAbstract
+A file containing names, social-security numbers and home phone numbers of about 1,000 current and former Atlanta Fire Rescue employees was discovered online in April by city officials. [...] May, social-security and driver's-license numbers of hundreds of people associated with Edward Waters College in Jacksonville, Fla., were on the Internet and indexed by search engines.
+Full text
+	•	TranslateFull text
+	•	
+Sophisticated hackers aren't the only ones who can gain access to sensitive data on the Internet. A large amount of personal information is being left exposed or poorly protected by companies and governments.
+The number of identity-theft victims in the U.S. jumped 12% to 11.1 million in 2009, according to research company Javelin Strategy & Research. Fraud cases reported to the Internet Crime Complaint Center, which is partly run by the Federal Bureau of Investigation, climbed 23% to 336,655 last year.
+Information that people inadvertently make public on sites like Facebook plays a role. So too do the sort of technical exploits demonstrated by the group that recently exposed a flaw in AT&T Inc.'s website.
+But in many cases, finding social-security and credit-card numbers or medical records on the Internet doesn't require computer expertise. Instead, such information is accessible to anyone who knows where to look.
+A file containing names, social-security numbers and home phone numbers of about 1,000 current and former Atlanta Fire Rescue employees was discovered online in April by city officials.
+Until May, social-security and driver's-license numbers of hundreds of people associated with Edward Waters College in Jacksonville, Fla., were on the Internet and indexed by search engines.
+The city of Atlanta said it has notified affected workers and is investigating the incident. A spokesman for Edward Waters blamed "human error" for its data exposure and said the college was trying to determine how many people's information was compromised.
+Eric Johnson, a professor at Dartmouth College's Tuck School of Business, has found files containing names, social-security and health-insurance numbers belonging to thousands of individuals exposed by so-called peer-to-peer software.
+The software, such as LimeWire, which allows computers to connect directly to one another, is most often used to trade music and video files, but is capable of transmitting any data, including workplace documents and spreadsheets.
+By entering basic search terms like hospital names into the software, Mr. Johnson said he turned up a 1,718 page document containing insurance details and diagnoses leaked by a medical-testing lab. He said he also found spreadsheets from a hospital system that contained contact information and social-security numbers for more than 20,000 patients.
+"There's no hacking or anything like that going on," he said. "We were just searching."
+Mr. Johnson said he contacts the organizations, but even if they remove the peer-to-peer software from employee computers, copies of the shared files may still be available online.
+In many cases files containing sensitive personal information are downloaded by known cyber criminals, said Rick Wallace, a researcher at Tiversa Inc., a security company that looks for leaked files on behalf of corporate clients. Tiversa found more than 13 million leaked files that contained information about its customers in one 12-month period.
+So far this year, U.S. organizations have reported 317 data breaches, on pace to exceed 2009's total of 498, according to the Identity Theft Resource Center, a nonprofit organization. These days the center receives between 700 and 1,000 calls a month from identity-theft victims looking for help, said Linda Foley, the organization's founder.
+Cyber criminals often sell the credit-card numbers and other personal information they find in hacker chat rooms that aren't secret but can only be found by people in the know -- although anyone who types "fullz" and "cvv2" into Google's search engine can see a sampling.
+Often data come from breaches where hackers have bypassed weak security systems, said Steven Peisner, president of Sellitsafe Inc., which helps merchants avoid processing fraudulent purchases. He estimates he sees about 15,000 or so stolen accounts being published each month in these dark corners of the Internet.
+Sometimes, employees who have made illegal copies of information are the thieves. A Bank of America Corp. employee this month pleaded guilty to charges that he stole and tried to sell account information of high-worth customers.
+A Seattle Municipal Courts employee is similarly alleged to have printed out names and credit-card numbers and turned them over to fraudsters who spend more than $300,000 at Wal-Mart and other stores.
+In some instances employees just don't understand the value of the information they handle, security experts said.
+In April an employee at J.M. Smucker Co. seeking computer help emailed social-security numbers and other information about nearly 6,000 Smucker employees and dependents to a relative.
+A Smucker's spokeswoman said it was an unfortunate incident, but there was no malicious intent.
+Enlarge this image.
+Credit: By Ben Worthen
+(c) 2010 Dow Jones & Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.
+

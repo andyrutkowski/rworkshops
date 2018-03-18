@@ -1,0 +1,38 @@
+Internet access is just an outlet away: [Third Edition]
+Stroud, Jerri. St. Louis Post - Dispatch; St. Louis, Mo. [St. Louis, Mo]05 Apr 2007: C.1.
+	•	Full text
+	•	Abstract/Details
+Hide highlighting
+Abstract
+TranslateAbstract
+Electric Internet uses the electrical wiring within buildings to deliver Internet access to electrical outlets, building systems or hard-wired devices like security cameras. River City delivers Internet access to the building using telecommunications networks, not the power grid, and the Internet signal is then transmitted through the building's electrical wiring.
+Electric Internet is putting the system into an assisted living facility in south St. Louis County, an apartment building in the Central West End and two Jacob Development Group projects besides the Ventana, said Trey
+PHOTO; PHOTO - Trey Goede (left), executive vice president of River City Internet, discusses an issue with a client's Electric Internetservice with Paric construction supervisor Rich Muehlberg in the Ventana Lofts, 1635 Washington Avenue. Photo by Kevin Manning | Post-Dispatch PHOTO - Computer programmer Eben Schantz, 26, who works for a California company, connects to the Web in his loft via Electric Internet's 100-megabit service. Photo by Kevin Manning | Post-Dispatch
+More
+Full Text
+	•	TranslateFull text
+	•	Turn on search term navigation
+"It's really easy. You don't have to set up anything weird."
+Eben shantz, 26, resident of ventana lofts
+WHAT is this SERVICE?
+Electric Internet uses a building's electrical wiring to deliver Internet access to electrical outlets anywhere in the building.
+AMEREN CORP. & RIVER CITY INTERNET jointly operate the service, with Ameren supplying the equipment and River City acting as an Internet service provider.
+---
+When Eben Shantz gets tired of working in his downtown loft, he can take his computer to the rooftop lounge or anywhere else in the Ventana, a building that offers Internet access from any electric outlet.
+The Ventana, 1635 Washington Avenue, is the first building in the St. Louis area with commercial "broadband over power line" service from Electric Internet, a joint venture between an Ameren Corp. subsidiary and River City Internet Group LLC of Maryland Heights.
+"It's really easy," said Shantz, 26, a computer programmer who works for a California company from his loft. "You don't have to set up anything weird."
+Shantz and other residents plug modems into an electric outlet, plug their computers into the modem's Ethernet port, turn it on and start their browser software. The always-on connection uploads and downloads files at six megabits per second.
+At the Ventana, the service costs about $13 a month, which is included in condo association fees. Tenants can order higher-speed connections from Electric Internet: 10-megabit service for $29 a month or 100-megabit service for $99 a month.
+Electric Internet uses the electrical wiring within buildings to deliver Internet access to electrical outlets, building systems or hard-wired devices like security cameras. River City delivers Internet access to the building using telecommunications networks, not the power grid, and the Internet signal is then transmitted through the building's electrical wiring.
+"It has the most flexibilty," said John Monshausen, vice president of Jacob Development Group, which owns the Ventana. "The tenants are extraordinarily happy."
+Electric Internet is putting the system into an assisted living facility in south St. Louis County, an apartment building in the Central West End and two Jacob Development Group projects besides the Ventana, said Trey
+Goede, executive vice president of River City.
+Goede said Electric Internet can save a building owner money because it doesn't require separate cables for Internet access. Developers don't have to guess where tenants will want to use the service, either. Instead of putting in three or four Internet jacks per unit, they know that tenants can plug in at any outlet.
+Ameren Energy Communications, an unregulated subsidiary of the power company, provides equipment for connecting the Internet to a building's power system. River City acts as an Internet service provider, handling customer service and billing for the business.
+The companies market the service jointly in the St. Louis area, said Cindy Bambini, project manager for Ameren Energy Communications. The utility may seek other partners elsewhere in its service area.
+Electric Internet is marketing the service primarily to multi- tenant buildings, hospitals, office buildings and other commercial buildings. In most cases, the company is selling to developers of new buildings or those undergoing major renovation, Goede said.
+Ameren has been testing Internet service delivered from its power poles to customers in Cape Girardeau for nearly five years, but it isn't planning to expand beyond that test, Bambini said. Several regulatory and technology issues need to be overcome before Ameren could start selling Internet access over its power grid, she said.
+Illustration
+PHOTO; Caption: PHOTO - Trey Goede (left), executive vice president of River City Internet, discusses an issue with a client's Electric Internet service with Paric construction supervisor Rich Muehlberg in the Ventana Lofts, 1635 Washington Avenue. Photo by Kevin Manning | Post-Dispatch PHOTO - Computer programmer Eben Schantz, 26, who works for a California company, connects to the Web in his loft via Electric Internet's 100-megabit service. Photo by Kevin Manning | Post-Dispatch
+
+

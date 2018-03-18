@@ -1,0 +1,93 @@
+____________________________________________________________
+
+The Internet Galaxy: Reflections on the Internet, Business, and Society
+
+Author: Kling, Rob
+
+Publication info: Academe ; Washington  Vol. 88, Iss. 4,  (Jul/Aug 2002): 66-68.
+
+http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/232308690?accountid=14749
+
+Abstract: "The Internet Galaxy: Reflections on the Internet, Business and Society," by Manuel Castells, is reviewed.
+
+Links: https://usc-primo.hosted.exlibrisgroup.com/openurl/01USC/01USC_SP??url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;genre=unknown&amp;sid=ProQ:ProQ%3Aeducation&amp;atitle=The+Internet+Galaxy%3A+Reflections+on+the+Internet%2C+Business%2C+and+Society&amp;title=Academe&amp;issn=01902946&amp;date=2002-07-01&amp;volume=88&amp;issue=4&amp;spage=66&amp;au=Kling%2C+Rob&amp;isbn=&amp;jtitle=Academe&amp;btitle=&amp;rft_id=info:eric/&amp;rft_id=info:doi/
+
+http://libproxy.usc.edu/login?url=https://usc.illiad.oclc.org/illiad/illiad.dll/OpenURL??ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Aeducation&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=Academe&amp;rft.atitle=The+Internet+Galaxy%3A+Reflections+on+the+Internet%2C+Business%2C+and+Society&amp;rft.au=Kling%2C+Rob&amp;rft.aulast=Kling&amp;rft.aufirst=Rob&amp;rft.date=2002-07-01&amp;rft.volume=88&amp;rft.issue=4&amp;rft.spage=66&amp;rft.title=Academe&amp;rft.issn=01902946
+
+http://libproxy.usc.edu/login?url=https://usc.illiad.oclc.org/illiad/illiad.dll/OpenURL??ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;rfr_id=info:sid/ProQ%3Aeducation&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft.genre=unknown&amp;rft.jtitle=Academe&amp;rft.atitle=The+Internet+Galaxy%3A+Reflections+on+the+Internet%2C+Business%2C+and+Society&amp;rft.au=Kling%2C+Rob&amp;rft.aulast=Kling&amp;rft.aufirst=Rob&amp;rft.date=2002-07-01&amp;rft.volume=88&amp;rft.issue=4&amp;rft.spage=66&amp;rft.title=Academe&amp;rft.issn=01902946
+
+Full text: The Internet Galaxy: Reflections on the Internet, Business, and Society
+Manuel Castells. New York: Oxford University Press, 2001
+Manuel Castells is one of the leading sociological analysts of information societies. His prior books about large-scale social transformation have been the subjects of numerous review essays and university symposia, and some scholars view them as classics. The Internet Galaxy interprets for nonspecialist readers the social roles of the Internet as well as its role in large-scale societal changes. It also examines some of the high-profile issues of information technology and social change, such as the geographical distribution of Internet resources, the skewed demographics of Internet access, and the recent failure of many well-financed, Internet-enabled "dot.com" firms.
+This book should be read by anyone who wants to learn about social behavior on and around the Internet. It is a good introduction to "social informatics," the body of research about information technologies in social contexts. The term "information society" was coined in the 1960s, and popularized in the United States in the 1970s and 1980s by analysts who were inspired by sociologist Daniel Bell and economist Fritz Machlup. Bell conceptualized social development as an evolution of society from one dominant form of production to another: industrial societies followed agricultural societies, and were to be followed by post-- industrial service societies, and then, arguably, by a form of postindustrialism that was very dependent upon advanced information and communication technologies. He emphasized how new computer and telecommunications technologies increased the importance of those services that had the most informational content and value.
+Castells, an urban planner and sociologist, rejects Bell's concept of "information societies" and has argued that economic sectors can be more or less "informationalized" in any type of society. He considers an economic unit such as a firm or a sector of the economy to be "informational" when its productivity and competitiveness fundamentally depend upon their capacity to efficiently apply information resources and knowledge.
+For example, in Bell's theory, a Brazilian information society in this decade would be inconceivable, because Brazil is still predominantly an agricultural society. In contrast, Castells would argue that some sectors of the Brazilian economy, such as banking and finance, are now highly informationalized, because they rely upon computerized systems and telecommunications networks as well as financial theories to manage their risks and investments. In this view, Brazilian banking may share important features with highly informationalized economic sectors in North America and western Europe. One such shared feature that Castells identifies is the increasing dominance of "networked organizations," which are characterized by strong lateral social relationships across different departments internally and also by strong alliances with other organizations.
+In the mid-1990s, Castells wrote a conceptually complex and dense trilogy that developed these views. The title of its first volume, The Rise of the Networked Society, signals one of his major themes: the shift from hierarchy to networked organizations that is enabled by advanced telecommunications, including computer networks. Castells identifies a "network logic" in which the social vitality of people and organizations depends upon their abilities to participate in (and switch between) key networks.
+Castells devotes only about thirty of the volume's five hundred pages to an explicit discussion of the Internet. Much of his data and analysis examine other kinds of networks, including transportation and financial networks. International bank transfers and stock market transactions, for example, are carried out primarily using organizational networks and specialized computer networks that are not integral to the Internet. In The Internet Galaxy, Castells focuses his attention on the Internet, but both explicitly and implicitly draws upon organizing ideas from his trilogy.
+Castells created the term "Internet galaxy" by analogy to media theorist Marshall McLuhan's term, "Gutenberg galaxy." McLuhan used the term to describe a complex set of social changes in European society that resulted from the development of the printing press. Castells's book title implicitly signals that he believes the Internet is as significant as Gutenberg's movable-type printing press.
+His title is engaging, but he doesn't define it or use it for analytical purposes. Castells's reflective integration of empirical studies of the social behavior of people and groups that use Internet services differs substantially from McLuhan's reliance on catchy epigrams to summarize his historically sweeping accounts. Castells is less entertaining and much more reliable than McLuhan. While the book is permeated with enthusiasm about the centrality of the Internet to social life, it also cautions about new technology's effect on social inequality and in the United States and other countries.
+The Internet Galaxy includes chapters about the history and culture of the Internet, e-commerce, and dot.coms; the effect of the Internet on social life, privacy, and the media; the geographical distribution of Internet resources; and the "digital divide" between those who have access to Internet resources and those who do not. Some chapters, such as those about the geography of the Internet and those about the extent to which people's use of the Internet seems to be socially isolating or helps to extend their social networks, are organized as careful reviews of systematic surveys. Other chapters draw upon some systematic empirical research, but are primarily the author's reflections. They evidence his nuanced understanding of relevant technologies, social behavior, markets, and social change.
+In contrast to other recent books about the Internet, Castells emphasizes analysis over prediction. For example, some pundits have claimed that the Internet will rapidly erode the importance of geography for work, schooling, and sociability. In one chapter Castells examines empirical research about the provision and availability of Internet services in different cities around the world. This line of research, conducted by a number of geographers, shows that the Internet is largely an urban phenomenon and is very much based in the United States. While Castells does not examine distance education, this chapter's insights may help readers to understand some of the reasons that distance education programs have not eroded place-based universities.
+The chapter on the digital divide reviews recent surveys about how Internet access varies with demographic characteristics such as age, household income, and ethnicity. Castells argues that Internet access is a prerequisite for overcoming inequality in a society in which many important activities are organized around the Internet. Castells understands that the problem with the term "digital divide" is that it implies that equal access to technology would be sufficient to foster social inclusion by, for example, enabling people to develop technical skills and become more employable or to locate information about medical problems. Internet access may help enable such inclusion, but it is certainly insufficient when simply added to the status quo. Too many solutions to the digital divide do not provide important complementary resources and complex interventions. For example, when K-12 schools are wired to the Internet to support social inclusion, teacher training and pedagogical revisions are sometimes neglected.
+Even though Castells's book is arguably one of the best to analyze the social informatics of the Internet, readers should not expect too much from it. It is a workable introduction, but it is sometimes enigmatic, and some concepts seem garbled. For example, the chapter labeled "virtual communities" neither defines nor examines this concept. It does examine the ways in which many people have integrated Internet use into their lives to expand their sociability. But it omits discussion of, and even reference to, questions such as what kind of online groups warrant the label "communities" and why it is sometimes difficult to form communities online, which are the subjects of systematic ethnographic social informatics research.
+In his discussion of organizations, Castells overlooks the character of networked workplaces. For example, he ignores workplaces where a manager may be tracking professional relationships that are represented by thousands of e-mail messages and may feel overwhelmed by the daily mix of critical messages, routine announcements, junk mail, and computer virus scares. Consequently, Castells's account of networked organizations makes them seem much more streamlined and conflict free than they appear in social informatics research that is informed by careful workplace ethnographies.
+While Castells explicitly avoids making strong predictions about the social consequences of the Internet, he unambiguously and urgently stresses the social importance of Internet use for people and groups that desire to be integral to our changing society. While the book does not explicitly examine the roles of the Internet in higher education, Castells's assertion that we must "be well networked or be left out" has implications for academics. Specifically, it has substantial consequences for a college's or a university's investments in networking infrastructure, for the extent to which social informatics is available in curricula and represented in research programs, and for how academics select the institutions at which they will work.
+The Internet's architecture and capabilities are subject to continuing development. Almost two hundred universities are participating in the next stage of development, Internet 2, which is funded by the federal government and industry. Internet 2 will support better video conferencing, more secure communications, and interuniversity administrative communications. Even though many institutions are facing budget cuts, a Castellian would argue against a university's reducing its investment in networking infrastructure. Important strategic issues as well as significant politics are involved in such investments. Where will the deepest cuts be made when budgets decline? A Castellian would limit job searches to academic units that have excellent Intemet access, but would also be skeptical that such Internet access could substitute for the social networking of good metropolitan regions.
+Part of the rigidity of this stance is a byproduct of one of the book's self-- imposed limitations. While Castells's emphasis on the Internet is a valid choice, he doesn't effectively locate communication over the Internet in the context of the other kinds of sociotechnical networks that he examined in his previous books. The Internet Galaxy's primary consideration of alternative networks and "social logics" is in its superb chapter about the importance of large metropolitan regions in the "geography of the Internet." But in the concluding chapter, Castells tends to reduce the various sociotechnical networks discussed in The Rise of the Networked Society, such as global financial systems, to the Internet.
+On the other hand, much of this book and of The Rise of the Networked Society indicate why social informatics research and teaching is likely to expand in colleges and universities. Networked organizations seek many potential employees who understand the social dimensions of developments in information technology. This shift may drive student demand for courses about how social life is influenced by computer networking. Social informatics research helps to inform the teaching of such courses, and it informs professionals and policy makers who are making major choices about new sociotechnical opportunities. As Castells's earlier trilogy indicated, these topics (and research about them) did not begin with the Internet, but are part of a longer and more extensive social change that makes them much more than a fad.
+The Internet has become the major new communication medium of this era. Despite its limitations, this extremely insightful and provocative book serves as a fine introduction to understanding the social opportunities, challenges, and complexities of life online.
+AuthorAffiliation Rob Kling is professor of information science and information systems at Indiana University. Additional information about social informatics is available on the Internet at <www.slis. indiana.edu/SI>.
+
+Subject: Nonfiction; Internet; Technological change; Society; Business community
+
+People: Castells, Manuel
+
+Title: The Internet Galaxy: Reflections on the Internet, Business, and Society
+
+Publication title: Academe; Washington
+
+Volume: 88
+
+Issue: 4
+
+Pages: 66-68
+
+Number of pages: 3
+
+Publication year: 2002
+
+Publication date: Jul/Aug 2002
+
+Publisher: American Association of University Professors
+
+Place of publication: Washington
+
+Country of publication: United States, Washington
+
+Publication subject: Education--Higher Education
+
+ISSN: 01902946
+
+CODEN: ACDWAT
+
+Source type: Scholarly Journals
+
+Language of publication: English
+
+Document type: Book Review-Favorable
+
+ProQuest document ID: 232308690
+
+Document URL: http://libproxy.usc.edu/login?url=https://search.proquest.com/docview/232308690?accountid=14749
+
+Copyright: Copyright American Association of University Professors Jul/Aug 2002
+
+Last updated: 2011-09-12
+
+Database: Education Database,Arts & Humanities Database,ProQuest Central
+
+____________________________________________________________
+
+Contact us at: http://www.proquest.com/go/pqissupportcontact
+Database copyright © 2018 ProQuest LLC. All rights reserved.
+Terms and Conditions: https://search.proquest.com/info/termsAndConditions

@@ -1,0 +1,34 @@
+U.S. Eases Grip Over Web Body --- Move Addresses Criticisms as Internet Usage Becomes More Global
+Rhoads, ChristopherAuthor Information. Wall Street Journal, Eastern edition; New York, N.Y. [New York, N.Y]01 Oct 2009: B.4.
+
+	•	Full text
+	•	Abstract/Details
+Hide highlighting
+Abstract
+TranslateAbstract
+Icann, which is based in Marina del Rey, Calif., was established in 1998 by the Clinton administration as a way to ensure that important Internet governance decisions, primarily addressing, were coordinated by a single body.
+Full Text
+	•	TranslateFull text
+	•	Turn on search term navigation
+The U.S. government said Wednesday it had ended its 11-year contract with the nonprofit body that oversees key aspects of the Internet's architecture, after demands from other countries for more say in how the Web works.
+The move addresses mounting criticism in recent years that no one country should have sole control over important underpinnings of the Internet, such as determining domain name suffixes like ".com."
+The criticism has intensified as Internet usage has soared around the world and become critical to economies and governments. Some countries, including China, have suggested they would build their own version of the Internet if the matter wasn't resolved.
+"This reflects the globalization of the Internet," said Rod Beckstrom, chief executive of the body, called the Internet Corporation for Assigned Names and Numbers, or Icann. "By America relaxing some control and inviting other countries to have an active hand, that increases the possibility that the global Internet will remain unified," Mr. Beckstrom said in an interview.
+Instead of reporting to the U.S., Icann now will go under regular review by a series of panels, including representatives from other countries and fields. But management of the domain-name system, also known as the root, won't change, at least for now. The Department of Commerce has a separate contract with Icann, which expires in 2011, to manage the technical aspects of the root.
+The changes announced Wednesday, the day the main contract expired, relate to addressing policies and guidelines.
+Icann, which is based in Marina del Rey, Calif., was established in 1998 by the Clinton administration as a way to ensure that important Internet governance decisions, primarily addressing, were coordinated by a single body. The plan was for the Commerce Department to oversee the body, with veto power over important decisions, until Icann became strong enough to operate on its own as a private-sector organization.
+It was considered essential that one body make such decisions to ensure that all users of the Internet were operating with the same address book, known as the domain-name system. The power of the Internet lies in part in this universality. Typing in allows a user, whether in Paris or Pittsburgh, to reach the same Web site.
+As the Internet became increasingly important to global commerce, communication and government, other countries argued the arrangement was no longer proper.
+While the Internet was started in the U.S., today just 15% of the world's estimated 1.7 billion Internet users reside in North America, according to internetworldstats.com.
+France, China, Libya, Brazil and others argued that such decisions should be placed under the United Nations, or perhaps under a newly created multinational body. Still, the news Wednesday was well received by some former critics.
+"I welcome the U.S. government's declared intention to grant more autonomy to Icann and to end its governmental oversight of the day-to-day management of the Internet," said Viviane Reding, the European Union's commissioner for Information, Society and Media, in a statement. Ms. Reding had been a vocal opponent of U.S. oversight of Icann.
+For the average Internet user, the changes will have no discernible effect, since they relate to how the decisions about the Internet's unseen plumbing are made, and by whom.
+Some questioned the effect on accountability, since the new review panels will be appointed by Icann and a government advisory body.
+"It's appointing panels really to review itself," said Milton Mueller, a professor at the School of Information Studies at Syracuse University. "It's a significant step away from unilateral oversight, but we really won't see how it works until it has to address some type of abuse."
+Icann is in the midst of two other initiatives reflecting the global growth of the Internet. It is working toward having domain-name suffixes, such as dot-net, in non-Roman languages, such as Chinese and Arabic. More than a dozen countries are expected to have their non-Roman languages used in domain name suffixes sometime next year.
+Icann is also planning to open up by next year domain suffixes to a wide variety of words, such as dot-airport and dot-food. The process has prompted concerns from some that the change could infringe on owners of well-known brands, potentially delaying the process.
+Credit: By Christopher Rhoads
+Word count: 709
+(c) 2009 Dow Jones & Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.
+
+
